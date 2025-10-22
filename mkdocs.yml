@@ -2,6 +2,7 @@ site_name: Quansheng UV-K5 Firmware Docs
 site_description: Guides haut niveau + Référence Doxygen du firmware UV-K5
 repo_url: https://github.com/<user>/<repo>
 repo_name: <user>/<repo>
+docs_dir: mkdocs
 
 theme:
   name: material

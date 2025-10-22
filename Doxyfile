@@ -13,7 +13,12 @@ CALL_GRAPH             	= YES
 CALLER_GRAPH           	= YES
 DISABLE_INDEX          	= YES
 GENERATE_TREEVIEW      	= YES
-RECURSIVE              	= YES
 COLLABORATION_GRAPH   	= YES
 GRAPHICAL_HIERARCHY    	= YES
 DOT_MULTI_TARGETS      	= YES
+
+FILE_PATTERNS          = *.h *.hpp *.c *.cpp
+RECURSIVE              = YES
+
+EXCLUDE                = mkdocs
+EXCLUDE_PATTERNS       = mkdocs/* mkdocs/**
