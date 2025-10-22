@@ -313,6 +313,8 @@ def render_markdown(results: List[Dict], out_path: Path, lookback: int, roots: L
         # order inside group: ascending by percent, then by total desc
         group_list = sorted(group_list, key=lambda x: (x["percent"], -x["total"]))
 
+        if grp==".":
+            grp="/"
         # Group header + small summary
         g_tot = sum(x["total"] for x in group_list)
         g_doc = sum(x["doc"] for x in group_list)
