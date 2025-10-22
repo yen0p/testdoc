@@ -1,0 +1,12 @@
+<map id="AUDIO_PlayVoice" name="AUDIO_PlayVoice">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,80,140,105"/>
+<area shape="rect" id="Node000002" href="$gpio_8c.html#a19c602412b79a5ffb11cee4b06f7f015" title=" " alt="" coords="201,5,314,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="100,78,187,40,205,33,206,38,189,44,102,82"/>
+<area shape="rect" id="Node000003" href="$gpio_8c.html#a36f713b1085106931e0671242197ea0a" title=" " alt="" coords="207,55,307,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="140,81,193,73,194,79,141,86"/>
+<area shape="rect" id="Node000004" href="$system_8c.html#a065b3504cb663f1a77c129d061ed16ee" title=" " alt="" coords="188,104,327,129"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="141,99,175,103,174,109,140,104"/>
+<area shape="rect" id="Node000005" href="$systick_8c.html#a2589f9c880426743907b143f46a08869" title=" " alt="" coords="375,129,513,155"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="98,103,139,122,189,138,277,148,361,147,361,152,277,153,187,143,137,127,96,108"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="328,123,361,128,360,133,327,129"/>
+</map>

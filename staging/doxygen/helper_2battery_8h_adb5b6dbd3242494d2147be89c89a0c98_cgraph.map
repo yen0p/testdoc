@@ -1,0 +1,21 @@
+<map id="BATTERY_GetReadings" name="BATTERY_GetReadings">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,175,56"/>
+<area shape="rect" id="Node000002" href="$backlight_8c.html#a852b721ecfd2a646965670d8bcdfd1bb" title=" " alt="" coords="411,5,560,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="175,35,397,21,397,26,175,41"/>
+<area shape="rect" id="Node000004" href="$ui_2battery_8c.html#aa40a1ae391715d25e95e6382c9c1cd40" title=" " alt="" coords="223,56,363,81"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="175,51,209,56,209,61,175,57"/>
+<area shape="rect" id="Node000003" href="$gpio_8c.html#a36f713b1085106931e0671242197ea0a" title=" " alt="" coords="667,5,767,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="560,15,654,15,654,21,560,21"/>
+<area shape="rect" id="Node000005" href="$st7565_8c.html#a60d3743c82f7ed40f4c35471d47e2e0b" title=" " alt="" coords="416,56,555,81"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="363,66,402,66,402,71,363,71"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="544,53,653,29,655,34,545,58"/>
+<area shape="rect" id="Node000006" href="$spi_8c.html#a9ff3a2e11a45967776ef95f2225cc081" title=" " alt="" coords="631,55,803,80"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="555,66,617,65,617,71,555,71"/>
+<area shape="rect" id="Node000007" href="$spi_8c.html#a4429ca3d8cfc95adea8d14a24fb0c3b1" title=" " alt="" coords="875,98,1088,138"/>
+<area shape="poly" id="edge7_Node000005_Node000007" title=" " alt="" coords="544,79,608,90,739,103,861,111,861,116,739,109,608,95,543,84"/>
+<area shape="rect" id="Node000008" href="$st7565_8c.html#ab057ac5c67ea298f6f0b3ae29a8b8250" title=" " alt="" coords="608,156,827,181"/>
+<area shape="poly" id="edge8_Node000005_Node000008" title=" " alt="" coords="508,79,553,106,609,134,652,150,651,155,607,139,550,111,505,84"/>
+<area shape="poly" id="edge10_Node000008_Node000007" title=" " alt="" coords="784,153,863,138,864,143,785,159"/>
+<area shape="rect" id="Node000009" href="$gpio_8c.html#a19c602412b79a5ffb11cee4b06f7f015" title=" " alt="" coords="925,163,1038,188"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="827,169,911,171,911,176,827,174"/>
+</map>

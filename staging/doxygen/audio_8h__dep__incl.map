@@ -1,0 +1,29 @@
+<map id="audio.h" name="audio.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="742,5,813,31"/>
+<area shape="rect" id="Node000002" href="$action_8c.html" title=" " alt="" coords="5,79,107,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="729,25,468,44,295,61,119,81,107,83,107,78,118,76,294,55,467,39,728,20"/>
+<area shape="rect" id="Node000003" href="$app_2aircopy_8c.html" title=" " alt="" coords="131,79,237,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="728,27,520,48,250,81,238,83,237,78,249,76,519,43,728,21"/>
+<area shape="rect" id="Node000004" href="$app_8c.html" title=" " alt="" coords="261,79,347,104"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="729,28,564,50,359,81,347,83,346,78,358,76,564,44,728,23"/>
+<area shape="rect" id="Node000005" href="$fm_8c.html" title=" " alt="" coords="371,79,450,104"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="729,31,463,81,451,84,450,79,462,76,728,25"/>
+<area shape="rect" id="Node000006" href="$generic_8c.html" title=" " alt="" coords="475,79,584,104"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="729,36,570,81,569,76,728,31"/>
+<area shape="rect" id="Node000007" href="$app_2main_8c.html" title=" " alt="" coords="609,79,703,104"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="747,40,677,81,675,76,744,35"/>
+<area shape="rect" id="Node000008" href="$app_2menu_8c.html" title=" " alt="" coords="728,79,827,104"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="780,44,780,79,775,79,775,44"/>
+<area shape="rect" id="Node000009" href="$app_2scanner_8c.html" title=" " alt="" coords="851,79,962,104"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="812,35,887,76,884,81,809,40"/>
+<area shape="rect" id="Node000010" href="$audio_8c.html" title=" " alt="" coords="987,79,1056,104"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="827,31,987,77,986,83,825,36"/>
+<area shape="rect" id="Node000011" href="$main_8c.html" title=" " alt="" coords="1080,79,1147,104"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="827,26,1069,76,1080,79,1079,84,1067,81,826,31"/>
+<area shape="rect" id="Node000012" href="$radio_8c.html" title=" " alt="" coords="1171,79,1237,104"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="827,23,976,44,1159,76,1171,79,1170,84,1158,81,975,49,826,28"/>
+<area shape="rect" id="Node000013" href="$scheduler_8c.html" title=" " alt="" coords="1262,79,1357,104"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="827,22,1013,43,1250,76,1262,78,1261,83,1249,81,1012,49,826,27"/>
+<area shape="rect" id="Node000014" href="$lock_8c.html" title=" " alt="" coords="1381,79,1457,104"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="827,19,1061,38,1215,54,1370,76,1381,78,1380,83,1369,81,1214,60,1061,43,826,25"/>
+</map>

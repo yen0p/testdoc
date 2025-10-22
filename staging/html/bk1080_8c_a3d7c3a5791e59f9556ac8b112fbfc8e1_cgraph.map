@@ -1,0 +1,32 @@
+<map id="BK1080_ReadRegister" name="BK1080_ReadRegister">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,103,172,128"/>
+<area shape="rect" id="Node000002" href="$i2c_8c.html#a6313d0eb89ef0d2759f807713def0060" title=" " alt="" coords="220,27,343,52"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="121,100,234,55,236,60,123,105"/>
+<area shape="rect" id="Node000008" href="$i2c_8c.html#a32e58d55017fc54118e3b7a5eda44d8c" title=" " alt="" coords="393,177,474,203"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="149,125,380,176,379,181,148,131"/>
+<area shape="rect" id="Node000009" href="$i2c_8c.html#afce134e0a1b6a8bc503c97b37639c9e6" title=" " alt="" coords="394,128,473,153"/>
+<area shape="poly" id="edge12_Node000001_Node000009" title=" " alt="" coords="173,119,381,134,380,139,172,124"/>
+<area shape="rect" id="Node000010" href="$i2c_8c.html#a149bcd572a8276d1a206a2a6c59bc6f5" title=" " alt="" coords="391,79,476,104"/>
+<area shape="poly" id="edge16_Node000001_Node000010" title=" " alt="" coords="172,107,377,93,377,98,173,112"/>
+<area shape="rect" id="Node000003" href="$i2c_8c.html#a491be04627ad9f9783e0be5e21fd4170" title=" " alt="" coords="392,29,475,55"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="343,38,378,38,378,44,343,43"/>
+<area shape="rect" id="Node000007" href="$systick_8c.html#a2589f9c880426743907b143f46a08869" title=" " alt="" coords="524,79,663,104"/>
+<area shape="poly" id="edge7_Node000002_Node000007" title=" " alt="" coords="313,24,347,13,389,5,434,4,477,14,494,25,503,38,512,51,526,64,538,71,535,75,522,68,508,55,499,41,490,29,475,19,433,9,390,10,349,18,314,29"/>
+<area shape="rect" id="Node000004" href="$gpio_8c.html#a5e045cee95aa006166cc151cfc55995c" title=" " alt="" coords="534,29,653,55"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="475,39,520,39,520,45,475,45"/>
+<area shape="rect" id="Node000005" href="$gpio_8c.html#a19c602412b79a5ffb11cee4b06f7f015" title=" " alt="" coords="537,177,650,203"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="464,53,478,64,495,91,501,116,508,139,526,163,533,168,530,173,522,167,504,142,496,117,490,93,474,68,460,57"/>
+<area shape="rect" id="Node000006" href="$gpio_8c.html#a36f713b1085106931e0671242197ea0a" title=" " alt="" coords="543,128,643,153"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="461,53,478,64,501,90,511,101,526,113,538,120,535,125,522,118,507,105,497,93,474,68,458,57"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="476,52,539,72,537,77,474,57"/>
+<area shape="poly" id="edge9_Node000008_Node000005" title=" " alt="" coords="474,187,523,187,523,193,474,193"/>
+<area shape="poly" id="edge10_Node000008_Node000006" title=" " alt="" coords="474,175,537,155,539,160,475,180"/>
+<area shape="poly" id="edge11_Node000008_Node000007" title=" " alt="" coords="456,175,474,163,497,137,507,125,523,113,533,107,536,112,525,118,511,129,501,141,478,167,459,179"/>
+<area shape="poly" id="edge13_Node000009_Node000005" title=" " alt="" coords="474,150,539,171,538,176,472,155"/>
+<area shape="poly" id="edge14_Node000009_Node000006" title=" " alt="" coords="473,138,529,138,529,143,473,143"/>
+<area shape="poly" id="edge15_Node000009_Node000007" title=" " alt="" coords="472,126,538,106,539,111,474,131"/>
+<area shape="poly" id="edge17_Node000010_Node000004" title=" " alt="" coords="474,76,537,56,539,61,476,81"/>
+<area shape="poly" id="edge18_Node000010_Node000005" title=" " alt="" coords="461,102,478,113,501,139,511,151,526,162,538,169,535,174,522,167,507,154,497,143,474,117,458,106"/>
+<area shape="poly" id="edge19_Node000010_Node000006" title=" " alt="" coords="476,101,539,121,537,126,474,107"/>
+<area shape="poly" id="edge20_Node000010_Node000007" title=" " alt="" coords="476,89,510,89,510,94,476,94"/>
+</map>

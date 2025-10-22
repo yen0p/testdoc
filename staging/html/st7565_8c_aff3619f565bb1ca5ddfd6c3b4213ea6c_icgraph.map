@@ -1,0 +1,12 @@
+<map id="ST7565_FillScreen" name="ST7565_FillScreen">
+<area shape="rect" id="Node000001" title=" " alt="" coords="455,31,595,56"/>
+<area shape="rect" id="Node000002" href="$st7565_8c.html#a9c4e96f950a7fdf780407f9a2a3ad504" title=" " alt="" coords="308,5,407,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="441,33,406,28,407,23,442,28"/>
+<area shape="rect" id="Node000005" href="$welcome_8c.html#a5e484afc4a8873a448fffd79b608f6b7" title=" " alt="" coords="108,56,260,81"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="441,52,261,66,260,60,441,47"/>
+<area shape="rect" id="Node000003" href="$board_8c.html#a6881d419e1beae69e49d55cd17afed09" title=" " alt="" coords="135,7,233,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="294,21,233,22,233,16,294,16"/>
+<area shape="rect" id="Node000004" href="$main_8c.html#a54ddd8759bb6b8d20890ac1c684e2e3d" title=" " alt="" coords="5,32,60,57"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="122,32,61,43,60,38,121,27"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="94,57,60,52,60,46,95,52"/>
+</map>

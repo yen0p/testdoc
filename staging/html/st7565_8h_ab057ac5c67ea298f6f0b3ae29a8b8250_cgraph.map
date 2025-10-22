@@ -1,0 +1,7 @@
+<map id="ST7565_SelectColumnAndLine" name="ST7565_SelectColumnAndLine">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,35,224,60"/>
+<area shape="rect" id="Node000002" href="$gpio_8c.html#a19c602412b79a5ffb11cee4b06f7f015" title=" " alt="" coords="322,5,435,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="224,33,308,23,309,28,224,38"/>
+<area shape="rect" id="Node000003" href="$spi_8c.html#a4429ca3d8cfc95adea8d14a24fb0c3b1" title=" " alt="" coords="272,55,485,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="224,56,259,60,258,65,224,62"/>
+</map>

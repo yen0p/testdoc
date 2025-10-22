@@ -1,0 +1,28 @@
+var app_2scanner_8c =
+[
+    [ "SCANNER_Key_DIGITS", "app_2scanner_8c.html#a0e00f26e6330795c0a62bbba55534461", null ],
+    [ "SCANNER_Key_EXIT", "app_2scanner_8c.html#a74c1c329ea87b216be4cb59844063832", null ],
+    [ "SCANNER_Key_MENU", "app_2scanner_8c.html#a2f750e0b993b87766b5e255e77845bac", null ],
+    [ "SCANNER_Key_STAR", "app_2scanner_8c.html#a01b6df83a17b9ea842edc7c4c0576604", null ],
+    [ "SCANNER_Key_UP_DOWN", "app_2scanner_8c.html#a2d171d428b4344079f1982bef698cb18", null ],
+    [ "SCANNER_ProcessKeys", "app_2scanner_8c.html#a1799b1ee9ebf5a3b00346a2200051ae8", null ],
+    [ "SCANNER_Start", "app_2scanner_8c.html#a1050ca363db361f8487e4d08fe5744a6", null ],
+    [ "SCANNER_Stop", "app_2scanner_8c.html#ade1fa93e17731f8be420e405470555cd", null ],
+    [ "bScanKeepFrequency", "app_2scanner_8c.html#a538b231267e69f159cfd53cafce84ea8", null ],
+    [ "gFlagStartScan", "app_2scanner_8c.html#a5a06b161fafff1f91a5128827d1b39cb", null ],
+    [ "gFlagStopScan", "app_2scanner_8c.html#af1da742ebefe4553ce616983a06b44e3", null ],
+    [ "gScanChannel", "app_2scanner_8c.html#a7618c46e4c7ae4b31907c1f1444ba153", null ],
+    [ "gScanCssResultCode", "app_2scanner_8c.html#a83c1d48a6c26772ae0a283b6f79e4787", null ],
+    [ "gScanCssResultType", "app_2scanner_8c.html#a1f9f84754570b42cdb9ee90f2edf5fb9", null ],
+    [ "gScanCssState", "app_2scanner_8c.html#a59ea6248031719818656cdbbc52dc71a", null ],
+    [ "gScanFrequency", "app_2scanner_8c.html#ac876bafd08fe8df3e53d3a455a57e063", null ],
+    [ "gScanHitCount", "app_2scanner_8c.html#a9fb61e25e9f2b5849597789ab98c3440", null ],
+    [ "gScannerEditState", "app_2scanner_8c.html#a1b6b0c5beadd2a418fada3d34ae91172", null ],
+    [ "gScanPauseMode", "app_2scanner_8c.html#a1244f7b443b1b604c2170a34c70ad4d0", null ],
+    [ "gScanProgressIndicator", "app_2scanner_8c.html#a29fab13d7cd99f1eac742dbff0e617bc", null ],
+    [ "gScanSingleFrequency", "app_2scanner_8c.html#ab155727ea6e512d6304819ee4d1d3fca", null ],
+    [ "gScanState", "app_2scanner_8c.html#ae2e3a4914d8a66fa6f8217f2b3e17d7b", null ],
+    [ "gScanUseCssResult", "app_2scanner_8c.html#a5cc442d21d5507882ebdd040877282a1", null ],
+    [ "gScheduleScanListen", "app_2scanner_8c.html#a876b8835be3c8253ffe1385fb1140bb6", null ],
+    [ "ScanPauseDelayIn10msec", "app_2scanner_8c.html#a84327b92ac89eb2143974f454b0433ae", null ]
+];

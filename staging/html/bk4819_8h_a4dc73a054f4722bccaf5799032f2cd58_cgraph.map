@@ -1,0 +1,27 @@
+<map id="BK4819_SetScanFrequency" name="BK4819_SetScanFrequency">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,76,204,102"/>
+<area shape="rect" id="Node000002" href="$bk4819_8c.html#a39bc0e82569c3851322f4bbfe43dc63d" title=" " alt="" coords="261,76,410,102"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="204,86,247,86,247,92,204,92"/>
+<area shape="rect" id="Node000003" href="$bk4819_8c.html#a2b70f5a565ca3c6da0e4f445311e2d20" title=" " alt="" coords="467,76,635,102"/>
+<area shape="poly" id="edge16_Node000001_Node000003" title=" " alt="" coords="169,74,252,62,335,58,419,62,480,71,479,76,418,68,335,63,252,68,170,79"/>
+<area shape="rect" id="Node000009" href="$bk4819_8c.html#aa7dbfecc31c726c8825edbf69ab24582" title=" " alt="" coords="252,126,419,151"/>
+<area shape="poly" id="edge14_Node000001_Node000009" title=" " alt="" coords="165,99,263,120,261,125,164,104"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="410,86,453,86,453,92,410,92"/>
+<area shape="rect" id="Node000004" href="$bk4819_8c.html#a1cdcf89173728c27bf80671638926798" title=" " alt="" coords="683,27,823,52"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="603,74,686,53,687,58,604,79"/>
+<area shape="rect" id="Node000005" href="$gpio_8c.html#a19c602412b79a5ffb11cee4b06f7f015" title=" " alt="" coords="883,76,997,102"/>
+<area shape="poly" id="edge11_Node000003_Node000005" title=" " alt="" coords="605,99,683,112,753,117,822,112,878,102,879,107,823,117,753,122,682,117,605,104"/>
+<area shape="rect" id="Node000006" href="$gpio_8c.html#a36f713b1085106931e0671242197ea0a" title=" " alt="" coords="890,126,990,151"/>
+<area shape="poly" id="edge12_Node000003_Node000006" title=" " alt="" coords="592,99,683,121,785,132,876,136,876,141,784,137,682,126,591,104"/>
+<area shape="rect" id="Node000007" href="$systick_8c.html#a2589f9c880426743907b143f46a08869" title=" " alt="" coords="871,27,1009,52"/>
+<area shape="poly" id="edge13_Node000003_Node000007" title=" " alt="" coords="567,74,616,41,648,24,682,12,736,4,790,5,841,11,886,21,884,26,840,17,790,10,736,9,683,17,650,29,619,45,570,78"/>
+<area shape="rect" id="Node000008" href="$bk4819_8c.html#a10334c620d95f234931bc9f3cc1c8283" title=" " alt="" coords="687,76,819,102"/>
+<area shape="poly" id="edge7_Node000003_Node000008" title=" " alt="" coords="635,86,672,86,672,92,635,92"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="802,50,878,70,877,75,801,55"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="799,50,824,63,839,76,849,88,858,100,872,112,882,118,880,123,869,117,854,104,844,91,835,79,821,67,796,55"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="823,37,857,37,857,42,823,42"/>
+<area shape="poly" id="edge8_Node000008_Node000005" title=" " alt="" coords="819,86,870,86,870,92,819,92"/>
+<area shape="poly" id="edge9_Node000008_Node000006" title=" " alt="" coords="802,99,878,120,877,125,801,104"/>
+<area shape="poly" id="edge10_Node000008_Node000007" title=" " alt="" coords="801,74,877,54,878,59,802,79"/>
+<area shape="poly" id="edge15_Node000009_Node000003" title=" " alt="" coords="391,123,481,102,482,107,392,128"/>
+</map>

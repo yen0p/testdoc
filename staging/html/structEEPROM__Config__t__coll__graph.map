@@ -1,0 +1,7 @@
+<map id="EEPROM_Config_t" name="EEPROM_Config_t">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,225,143,251"/>
+<area shape="rect" id="Node000002" href="$structVFO__Info__t.html" title=" " alt="" coords="27,137,121,163"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="77,177,77,225,71,225,71,177"/>
+<area shape="rect" id="Node000003" href="$structFREQ__Config__t.html" title=" " alt="" coords="15,5,133,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="77,44,77,137,71,137,71,44"/>
+</map>

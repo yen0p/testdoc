@@ -1,0 +1,16 @@
+<map id="Render" name="Render">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,80,73,105"/>
+<area shape="rect" id="Node000002" href="$st7565_8c.html#a60d3743c82f7ed40f4c35471d47e2e0b" title=" " alt="" coords="121,80,260,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="74,90,108,90,108,95,74,95"/>
+<area shape="rect" id="Node000003" href="$gpio_8c.html#a36f713b1085106931e0671242197ea0a" title=" " alt="" coords="367,5,467,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="216,78,258,58,307,39,353,27,355,32,309,45,260,63,218,82"/>
+<area shape="rect" id="Node000004" href="$spi_8c.html#a9ff3a2e11a45967776ef95f2225cc081" title=" " alt="" coords="331,55,503,80"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="260,82,317,76,318,81,261,88"/>
+<area shape="rect" id="Node000005" href="$spi_8c.html#a4429ca3d8cfc95adea8d14a24fb0c3b1" title=" " alt="" coords="575,98,788,138"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="261,94,561,109,561,114,260,99"/>
+<area shape="rect" id="Node000006" href="$st7565_8c.html#ab057ac5c67ea298f6f0b3ae29a8b8250" title=" " alt="" coords="308,156,527,181"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="225,103,309,134,358,150,356,155,307,139,223,108"/>
+<area shape="poly" id="edge7_Node000006_Node000005" title=" " alt="" coords="484,153,563,138,564,143,485,159"/>
+<area shape="rect" id="Node000007" href="$gpio_8c.html#a19c602412b79a5ffb11cee4b06f7f015" title=" " alt="" coords="625,163,738,188"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="527,169,611,171,611,176,527,174"/>
+</map>

@@ -1,0 +1,21 @@
+<map id="BK4819_SetupPowerAmplifier" name="BK4819_SetupPowerAmplifier">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,76,220,102"/>
+<area shape="rect" id="Node000002" href="$bk4819_8c.html#a2b70f5a565ca3c6da0e4f445311e2d20" title=" " alt="" coords="268,76,436,102"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="220,86,254,86,254,92,220,92"/>
+<area shape="rect" id="Node000003" href="$bk4819_8c.html#a1cdcf89173728c27bf80671638926798" title=" " alt="" coords="484,27,624,52"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="404,74,487,53,489,58,405,79"/>
+<area shape="rect" id="Node000004" href="$gpio_8c.html#a19c602412b79a5ffb11cee4b06f7f015" title=" " alt="" coords="685,76,798,102"/>
+<area shape="poly" id="edge10_Node000002_Node000004" title=" " alt="" coords="411,99,484,110,554,115,624,110,676,102,677,107,624,116,554,120,484,116,410,105"/>
+<area shape="rect" id="Node000005" href="$gpio_8c.html#a36f713b1085106931e0671242197ea0a" title=" " alt="" coords="691,126,791,151"/>
+<area shape="poly" id="edge11_Node000002_Node000005" title=" " alt="" coords="394,99,484,121,586,132,678,136,678,141,586,137,484,126,392,104"/>
+<area shape="rect" id="Node000006" href="$systick_8c.html#a2589f9c880426743907b143f46a08869" title=" " alt="" coords="672,27,811,52"/>
+<area shape="poly" id="edge12_Node000002_Node000006" title=" " alt="" coords="368,74,417,41,449,24,483,12,537,4,591,5,643,11,687,21,686,26,642,17,591,10,537,9,485,17,451,29,420,45,371,78"/>
+<area shape="rect" id="Node000007" href="$bk4819_8c.html#a10334c620d95f234931bc9f3cc1c8283" title=" " alt="" coords="488,76,620,102"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="436,86,474,86,474,92,436,92"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="604,50,680,70,678,75,602,55"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="603,50,625,62,641,74,650,87,659,99,674,111,686,118,683,122,670,115,655,103,646,90,637,78,623,66,600,55"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="624,37,658,37,658,42,624,42"/>
+<area shape="poly" id="edge7_Node000007_Node000004" title=" " alt="" coords="620,86,671,86,671,92,620,92"/>
+<area shape="poly" id="edge8_Node000007_Node000005" title=" " alt="" coords="604,99,680,120,678,125,602,104"/>
+<area shape="poly" id="edge9_Node000007_Node000006" title=" " alt="" coords="602,74,678,54,680,59,604,79"/>
+</map>

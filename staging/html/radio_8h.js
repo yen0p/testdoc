@@ -1,0 +1,56 @@
+var radio_8h =
+[
+    [ "FREQ_Config_t", "structFREQ__Config__t.html", "structFREQ__Config__t" ],
+    [ "VFO_Info_t", "structVFO__Info__t.html", "structVFO__Info__t" ],
+    [ "PTT_ID_t", "radio_8h.html#abb1ceed4d98f314c8fb807bcd7826b70", null ],
+    [ "STEP_Setting_t", "radio_8h.html#a14c6de22ee6fe9e6480e95e8648c09cc", null ],
+    [ "VFO_Info_t", "radio_8h.html#ac607f1edd311d1b37dd66d0fee38ce5a", null ],
+    [ "VfoState_t", "radio_8h.html#a2f40fd33a8a7c1b2c457ff97a1681772", null ],
+    [ "PTT_ID_t", "radio_8h.html#a4e31922ddffdb78581a92318cfbf9423", [
+      [ "PTT_ID_OFF", "radio_8h.html#a4e31922ddffdb78581a92318cfbf9423a964f94c45de43033fcc6ec1bb8f3b5b2", null ],
+      [ "PTT_ID_BOT", "radio_8h.html#a4e31922ddffdb78581a92318cfbf9423afbbd29999e59f4eef116c0caef58e956", null ],
+      [ "PTT_ID_EOT", "radio_8h.html#a4e31922ddffdb78581a92318cfbf9423add43d562cf9fec9444ba3e651bb02f6a", null ],
+      [ "PTT_ID_BOTH", "radio_8h.html#a4e31922ddffdb78581a92318cfbf9423adeb3852518c4747c87de764582bd0d34", null ]
+    ] ],
+    [ "STEP_Setting_t", "radio_8h.html#a4d1cb383c9d5ffbc496e6839f652b6d5", [
+      [ "STEP_2_5kHz", "radio_8h.html#a4d1cb383c9d5ffbc496e6839f652b6d5a4127306ce310a2c7abdcb59be2c7bc6d", null ],
+      [ "STEP_5_0kHz", "radio_8h.html#a4d1cb383c9d5ffbc496e6839f652b6d5ab1c7950d63170dc133c60a5e5946b736", null ],
+      [ "STEP_6_25kHz", "radio_8h.html#a4d1cb383c9d5ffbc496e6839f652b6d5ad59a8b87428e52ce4353473298135aae", null ],
+      [ "STEP_10_0kHz", "radio_8h.html#a4d1cb383c9d5ffbc496e6839f652b6d5aed06e09c18d36bcd61ebdffbc3c33053", null ],
+      [ "STEP_12_5kHz", "radio_8h.html#a4d1cb383c9d5ffbc496e6839f652b6d5ae2e2480e35693ea79fb3309e73378ae2", null ],
+      [ "STEP_25_0kHz", "radio_8h.html#a4d1cb383c9d5ffbc496e6839f652b6d5a959ee9d4a5afc364df6cb36696f46972", null ],
+      [ "STEP_8_33kHz", "radio_8h.html#a4d1cb383c9d5ffbc496e6839f652b6d5a6bb2c54139bd2afd99df67bcd3f7dec4", null ]
+    ] ],
+    [ "VfoState_t", "radio_8h.html#aab42ceae4e3d6eb4ba7d106c364afc2a", [
+      [ "VFO_STATE_NORMAL", "radio_8h.html#aab42ceae4e3d6eb4ba7d106c364afc2aaa2233fcc6afe5f61d3d5d83f755fa4c6", null ],
+      [ "VFO_STATE_BUSY", "radio_8h.html#aab42ceae4e3d6eb4ba7d106c364afc2aab4c24eab8733ce4f10e419cc0f739125", null ],
+      [ "VFO_STATE_BAT_LOW", "radio_8h.html#aab42ceae4e3d6eb4ba7d106c364afc2aa341e289918ca435c28a2d0b18acce443", null ],
+      [ "VFO_STATE_TX_DISABLE", "radio_8h.html#aab42ceae4e3d6eb4ba7d106c364afc2aae9456fcd7ec452491c210931e42cecd2", null ],
+      [ "VFO_STATE_TIMEOUT", "radio_8h.html#aab42ceae4e3d6eb4ba7d106c364afc2aa65927e417eeda76c0a23891f7c81f66d", null ],
+      [ "VFO_STATE_ALARM", "radio_8h.html#aab42ceae4e3d6eb4ba7d106c364afc2aa63c1201650bb2d46fb270c927acf190a", null ],
+      [ "VFO_STATE_VOL_HIGH", "radio_8h.html#aab42ceae4e3d6eb4ba7d106c364afc2aad6867b69e8297b55d21a13d16ca26f09", null ]
+    ] ],
+    [ "RADIO_ApplyOffset", "radio_8h.html#a50e136c5b7d545bc5fc4a80f253053d3", null ],
+    [ "RADIO_CheckValidChannel", "radio_8h.html#ac052a149869c923a0192c3c255ef9a18", null ],
+    [ "RADIO_ConfigureChannel", "radio_8h.html#adcaa56c62c5128ba6c375b6be243e0fa", null ],
+    [ "RADIO_ConfigureNOAA", "radio_8h.html#ab10250bf2189a098247632178d5e81b5", null ],
+    [ "RADIO_ConfigureSquelchAndOutputPower", "radio_8h.html#a6dc2e4d644eede881452f76cc52e513c", null ],
+    [ "RADIO_EnableCxCSS", "radio_8h.html#a4ac9d7e6956dd483e5013518beaff037", null ],
+    [ "RADIO_FindNextChannel", "radio_8h.html#a62b6d47b40c74bdb750e08376c3f0f9f", null ],
+    [ "RADIO_InitInfo", "radio_8h.html#a9194e9ae57f53c83ef8fd5b32300fac8", null ],
+    [ "RADIO_PrepareCssTX", "radio_8h.html#adb194b266de3b429ced65ddad5cf8d15", null ],
+    [ "RADIO_PrepareTX", "radio_8h.html#a489ce507eed755d7f5730c1dd0ce0475", null ],
+    [ "RADIO_SelectVfos", "radio_8h.html#aeba3dbfbb80cdad7a6379a740f64e55b", null ],
+    [ "RADIO_SendEndOfTransmission", "radio_8h.html#a47e6c0b2c74acc82130fb7aff92e637b", null ],
+    [ "RADIO_SetTxParameters", "radio_8h.html#a6c2223d43a630802e1f87a2d75cc5338", null ],
+    [ "RADIO_SetupRegisters", "radio_8h.html#a4a1a96ae7b164524bd4b7c9ed112c120", null ],
+    [ "RADIO_SetVfoState", "radio_8h.html#af623607a490f20e52dda1831b4c2b98c", null ],
+    [ "gCurrentCodeType", "radio_8h.html#a69b8c22617bcd894f2c194e6b8ab9214", null ],
+    [ "gCurrentVfo", "radio_8h.html#a9f80d7559d2fe42b433322d47fae5a78", null ],
+    [ "gRxVfo", "radio_8h.html#a4859ec9fef82206d74692fcee405af76", null ],
+    [ "gSelectedCode", "radio_8h.html#a9e3d540dea7943b515cc5ac9ae049b91", null ],
+    [ "gSelectedCodeType", "radio_8h.html#a8bcfa62841c4a00bf8bd3cd85b98240f", null ],
+    [ "gStepSetting", "radio_8h.html#a0d7c5e91990f1a23db477f9b65319a1f", null ],
+    [ "gTxVfo", "radio_8h.html#a4f79e6d0d29b02fb45a9c902810b72eb", null ],
+    [ "VfoState", "radio_8h.html#aba906e1ccba67cd7832eab2e6d034250", null ]
+];

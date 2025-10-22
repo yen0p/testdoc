@@ -1,0 +1,13 @@
+<map id="BOARD_ADC_Init" name="BOARD_ADC_Init">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,79,137,104"/>
+<area shape="rect" id="Node000002" href="$adc_8c.html#aa07f09e3df8defb82ae65f93af715ba8" title=" " alt="" coords="185,29,304,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="116,76,185,56,187,61,117,81"/>
+<area shape="rect" id="Node000005" href="$adc_8c.html#a4267de5bc303060b4dfd2997c078c602" title=" " alt="" coords="194,79,295,104"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="138,89,180,89,180,94,138,94"/>
+<area shape="rect" id="Node000006" href="$adc_8c.html#a7014e5b5722fdd6b511001e90d6e047c" title=" " alt="" coords="185,128,304,153"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="117,101,187,122,185,127,116,107"/>
+<area shape="rect" id="Node000003" href="$adc_8c.html#aa256af5b8a253bdc3f6aacaa29830e64" title=" " alt="" coords="377,5,484,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="304,32,364,24,364,29,304,37"/>
+<area shape="rect" id="Node000004" href="$adc_8c.html#a08c3bf683785c6ee9e7b55598d5507f4" title=" " alt="" coords="352,55,509,80"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="304,47,338,52,338,57,304,53"/>
+</map>

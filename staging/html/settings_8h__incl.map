@@ -1,0 +1,14 @@
+<map id="settings.h" name="settings.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="82,5,169,31"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,152,88,177"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="117,32,82,80,57,140,52,138,78,77,113,29"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="155,225,226,251"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="141,29,189,78,214,112,233,151,235,169,231,186,214,216,209,213,227,184,230,169,228,153,210,115,185,81,137,33"/>
+<area shape="rect" id="Node000004" href="$radio_8h.html" title=" " alt="" coords="92,79,159,104"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="128,31,128,65,123,65,123,31"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="114,106,71,145,68,141,111,102"/>
+<area shape="poly" id="edge5_Node000004_Node000003" title=" " alt="" coords="130,103,139,137,153,176,175,213,171,216,148,178,133,138,125,105"/>
+<area shape="rect" id="Node000005" href="$dcs_8h.html" title=" " alt="" coords="163,152,219,177"/>
+<area shape="poly" id="edge6_Node000004_Node000005" title=" " alt="" coords="138,103,173,140,169,144,134,106"/>
+<area shape="poly" id="edge7_Node000005_Node000003" title=" " alt="" coords="193,178,193,212,188,212,188,178"/>
+</map>

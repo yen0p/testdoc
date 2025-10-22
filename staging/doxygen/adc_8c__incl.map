@@ -1,0 +1,19 @@
+<map id="driver/adc.c" name="driver/adc.c">
+<area shape="rect" id="Node000001" title=" " alt="" coords="331,5,429,31"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,79,99,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="331,33,112,80,111,74,330,27"/>
+<area shape="rect" id="Node000003" href="$irq_8h.html" title=" " alt="" coords="123,79,269,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="351,33,240,76,238,71,349,28"/>
+<area shape="rect" id="Node000004" href="$saradc_8h.html" title=" " alt="" coords="294,79,466,104"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="383,31,383,65,377,65,377,31"/>
+<area shape="rect" id="Node000006" href="$syscon_8h.html" title=" " alt="" coords="490,79,665,104"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="413,28,533,71,531,76,411,33"/>
+<area shape="rect" id="Node000007" href="$adc_8h.html" title=" " alt="" coords="689,79,788,104"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="430,26,676,75,675,80,429,32"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="542,152,613,177"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="413,102,533,145,531,150,411,107"/>
+<area shape="poly" id="edge6_Node000006_Node000005" title=" " alt="" coords="580,104,580,138,575,138,575,104"/>
+<area shape="poly" id="edge9_Node000007_Node000005" title=" " alt="" coords="714,106,617,149,615,144,712,102"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="697,152,780,177"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="741,104,741,138,736,138,736,104"/>
+</map>

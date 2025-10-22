@@ -1,0 +1,26 @@
+var annotated_dup =
+[
+    [ "ADC_Channel_t", "structADC__Channel__t.html", "structADC__Channel__t" ],
+    [ "ADC_Config_t", "structADC__Config__t.html", "structADC__Config__t" ],
+    [ "CMD_0514_t", "structCMD__0514__t.html", "structCMD__0514__t" ],
+    [ "CMD_051B_t", "structCMD__051B__t.html", "structCMD__051B__t" ],
+    [ "CMD_051D_t", "structCMD__051D__t.html", "structCMD__051D__t" ],
+    [ "CMD_052D_t", "structCMD__052D__t.html", "structCMD__052D__t" ],
+    [ "CMD_052F_t", "structCMD__052F__t.html", "structCMD__052F__t" ],
+    [ "DMA_Channel_t", "structDMA__Channel__t.html", "structDMA__Channel__t" ],
+    [ "EEPROM_Config_t", "structEEPROM__Config__t.html", "structEEPROM__Config__t" ],
+    [ "Footer_t", "structFooter__t.html", "structFooter__t" ],
+    [ "FREQ_Config_t", "structFREQ__Config__t.html", "structFREQ__Config__t" ],
+    [ "GPIO_Bank_t", "structGPIO__Bank__t.html", "structGPIO__Bank__t" ],
+    [ "Header_t", "structHeader__t.html", "structHeader__t" ],
+    [ "REPLY_0514_t", "structREPLY__0514__t.html", "structREPLY__0514__t" ],
+    [ "REPLY_051B_t", "structREPLY__051B__t.html", "structREPLY__051B__t" ],
+    [ "REPLY_051D_t", "structREPLY__051D__t.html", "structREPLY__051D__t" ],
+    [ "REPLY_0527_t", "structREPLY__0527__t.html", "structREPLY__0527__t" ],
+    [ "REPLY_0529_t", "structREPLY__0529__t.html", "structREPLY__0529__t" ],
+    [ "REPLY_052D_t", "structREPLY__052D__t.html", "structREPLY__052D__t" ],
+    [ "SPI_Config_t", "structSPI__Config__t.html", "structSPI__Config__t" ],
+    [ "SPI_Port_t", "structSPI__Port__t.html", "structSPI__Port__t" ],
+    [ "UART_Port_t", "structUART__Port__t.html", "structUART__Port__t" ],
+    [ "VFO_Info_t", "structVFO__Info__t.html", "structVFO__Info__t" ]
+];

@@ -1,0 +1,13 @@
+<map id="I2C_WriteBuffer" name="I2C_WriteBuffer">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,80,129,105"/>
+<area shape="rect" id="Node000002" href="$i2c_8c.html#a149bcd572a8276d1a206a2a6c59bc6f5" title=" " alt="" coords="177,80,263,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="130,90,163,90,163,95,130,95"/>
+<area shape="rect" id="Node000003" href="$gpio_8c.html#a5e045cee95aa006166cc151cfc55995c" title=" " alt="" coords="321,5,439,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="240,78,310,40,325,33,328,38,312,44,243,82"/>
+<area shape="rect" id="Node000004" href="$gpio_8c.html#a19c602412b79a5ffb11cee4b06f7f015" title=" " alt="" coords="323,55,437,80"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="262,83,309,76,310,81,263,89"/>
+<area shape="rect" id="Node000005" href="$gpio_8c.html#a36f713b1085106931e0671242197ea0a" title=" " alt="" coords="330,104,430,129"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="263,96,317,105,316,110,262,102"/>
+<area shape="rect" id="Node000006" href="$systick_8c.html#a2589f9c880426743907b143f46a08869" title=" " alt="" coords="311,153,449,179"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="244,103,312,138,330,146,328,151,310,143,242,108"/>
+</map>

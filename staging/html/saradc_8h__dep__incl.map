@@ -1,0 +1,9 @@
+<map id="bsp/dp32g030/saradc.h" name="bsp/dp32g030/saradc.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="64,5,236,31"/>
+<area shape="rect" id="Node000002" href="$board_8c.html" title=" " alt="" coords="5,79,76,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="122,40,60,81,57,76,120,36"/>
+<area shape="rect" id="Node000003" href="$adc_8c.html" title=" " alt="" coords="101,79,199,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="153,44,153,79,147,79,147,44"/>
+<area shape="rect" id="Node000004" href="$sram-overlay_8c.html" title=" " alt="" coords="224,79,343,104"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="185,35,263,76,260,81,182,39"/>
+</map>

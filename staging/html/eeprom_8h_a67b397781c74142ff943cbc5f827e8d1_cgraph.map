@@ -1,0 +1,29 @@
+<map id="EEPROM_WriteBuffer" name="EEPROM_WriteBuffer">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,104,164,129"/>
+<area shape="rect" id="Node000002" href="$i2c_8c.html#a32e58d55017fc54118e3b7a5eda44d8c" title=" " alt="" coords="401,5,482,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="112,101,158,81,211,62,303,39,386,23,387,29,304,44,213,67,160,86,114,106"/>
+<area shape="rect" id="Node000006" href="$i2c_8c.html#afce134e0a1b6a8bc503c97b37639c9e6" title=" " alt="" coords="402,55,481,80"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="143,101,212,89,388,69,389,74,212,94,144,107"/>
+<area shape="rect" id="Node000007" href="$i2c_8c.html#a149bcd572a8276d1a206a2a6c59bc6f5" title=" " alt="" coords="399,104,484,129"/>
+<area shape="poly" id="edge9_Node000001_Node000007" title=" " alt="" coords="138,127,212,139,281,145,350,139,390,131,392,136,351,145,281,150,212,145,137,132"/>
+<area shape="rect" id="Node000009" href="$i2c_8c.html#a8c5ade271695e13df731029fb4b54798" title=" " alt="" coords="219,104,343,129"/>
+<area shape="poly" id="edge14_Node000001_Node000009" title=" " alt="" coords="164,114,206,114,206,119,164,119"/>
+<area shape="rect" id="Node000010" href="$system_8c.html#a065b3504cb663f1a77c129d061ed16ee" title=" " alt="" coords="212,205,351,231"/>
+<area shape="poly" id="edge16_Node000001_Node000010" title=" " alt="" coords="109,127,213,184,241,197,239,202,211,188,107,132"/>
+<area shape="rect" id="Node000003" href="$gpio_8c.html#a19c602412b79a5ffb11cee4b06f7f015" title=" " alt="" coords="545,5,658,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="482,15,531,15,531,21,482,21"/>
+<area shape="rect" id="Node000004" href="$gpio_8c.html#a36f713b1085106931e0671242197ea0a" title=" " alt="" coords="551,55,651,80"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="483,28,547,48,545,53,482,33"/>
+<area shape="rect" id="Node000005" href="$systick_8c.html#a2589f9c880426743907b143f46a08869" title=" " alt="" coords="532,104,671,129"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="469,29,486,40,509,66,519,77,534,89,546,96,543,101,530,94,515,81,505,69,482,44,466,33"/>
+<area shape="poly" id="edge6_Node000006_Node000003" title=" " alt="" coords="480,53,546,32,547,37,482,58"/>
+<area shape="poly" id="edge7_Node000006_Node000004" title=" " alt="" coords="481,65,537,65,537,70,481,70"/>
+<area shape="poly" id="edge8_Node000006_Node000005" title=" " alt="" coords="482,77,547,97,546,102,480,82"/>
+<area shape="poly" id="edge11_Node000007_Node000003" title=" " alt="" coords="464,102,482,89,505,64,515,52,531,40,541,34,544,39,533,44,519,56,509,67,486,93,467,106"/>
+<area shape="poly" id="edge12_Node000007_Node000004" title=" " alt="" coords="482,101,545,82,547,87,484,107"/>
+<area shape="poly" id="edge13_Node000007_Node000005" title=" " alt="" coords="484,114,518,114,518,119,484,119"/>
+<area shape="rect" id="Node000008" href="$gpio_8c.html#a5e045cee95aa006166cc151cfc55995c" title=" " alt="" coords="542,153,661,179"/>
+<area shape="poly" id="edge10_Node000007_Node000008" title=" " alt="" coords="484,127,547,147,545,152,482,132"/>
+<area shape="poly" id="edge15_Node000009_Node000007" title=" " alt="" coords="343,114,385,114,385,119,343,119"/>
+<area shape="poly" id="edge17_Node000010_Node000005" title=" " alt="" coords="322,203,547,131,548,136,324,208"/>
+</map>
