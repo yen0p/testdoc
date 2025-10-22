@@ -2,7 +2,6 @@ var files_dup =
 [
     [ "app", "dir_d422163b96683743ed3963d4aac17747.html", "dir_d422163b96683743ed3963d4aac17747" ],
     [ "bsp", "dir_3c5459f7c179b79c90e2565474bb2856.html", "dir_3c5459f7c179b79c90e2565474bb2856" ],
-    [ "docs", "dir_49e56c817e5e54854c35e136979f97ca.html", null ],
     [ "driver", "dir_1284b95147afa48b330f502c8bbc0529.html", "dir_1284b95147afa48b330f502c8bbc0529" ],
     [ "helper", "dir_d634f21e635b1ea642c8b957ecf78b4f.html", "dir_d634f21e635b1ea642c8b957ecf78b4f" ],
     [ "ui", "dir_1788f8309b1a812dcb800a185471cf6c.html", "dir_1788f8309b1a812dcb800a185471cf6c" ],
@@ -21,7 +20,6 @@ var files_dup =
     [ "frequencies.h", "frequencies_8h.html", "frequencies_8h" ],
     [ "functions.c", "functions_8c.html", "functions_8c" ],
     [ "functions.h", "functions_8h.html", "functions_8h" ],
-    [ "fw-pack.py", "fw-pack_8py.html", "fw-pack_8py" ],
     [ "init.c", "init_8c.html", "init_8c" ],
     [ "misc.c", "misc_8c.html", "misc_8c" ],
     [ "misc.h", "misc_8h.html", "misc_8h" ],

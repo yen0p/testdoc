@@ -11,6 +11,5 @@ var searchData=
   ['frequencies_2ec_8',['frequencies.c',['../frequencies_8c.html',1,'']]],
   ['frequencies_2eh_9',['frequencies.h',['../frequencies_8h.html',1,'']]],
   ['functions_2ec_10',['functions.c',['../functions_8c.html',1,'']]],
-  ['functions_2eh_11',['functions.h',['../functions_8h.html',1,'']]],
-  ['fw_2dpack_2epy_12',['fw-pack.py',['../fw-pack_8py.html',1,'']]]
+  ['functions_2eh_11',['functions.h',['../functions_8h.html',1,'']]]
 ];

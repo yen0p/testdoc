@@ -25,25 +25,6 @@
 var NAVTREE =
 [
   [ "Quansheng UV-K5 Firmware", "index.html", [
-    [ "Quansheng UV-K5 – Documentation Staging", "md_docs_2index.html", null ],
-    [ "Open reimplementation of the Quan Sheng UV K5 v2.1.27 firmware", "md_README.html", [
-      [ "Compiler", "md_README.html#autotoc_md2", null ],
-      [ "Building", "md_README.html#autotoc_md3", null ],
-      [ "Flashing with the official updater", "md_README.html#autotoc_md4", null ],
-      [ "Flashing with <a href=\"https://github.com/piotr022/k5prog\" >k5prog</a>", "md_README.html#autotoc_md5", null ],
-      [ "Flashing with SWD", "md_README.html#autotoc_md6", null ],
-      [ "Support", "md_README.html#autotoc_md7", null ],
-      [ "Credits", "md_README.html#autotoc_md8", null ],
-      [ "License", "md_README.html#autotoc_md9", null ]
-    ] ],
-    [ "Namespaces", "namespaces.html", [
-      [ "Namespace List", "namespaces.html", "namespaces_dup" ],
-      [ "Namespace Members", "namespacemembers.html", [
-        [ "All", "namespacemembers.html", null ],
-        [ "Functions", "namespacemembers_func.html", null ],
-        [ "Variables", "namespacemembers_vars.html", null ]
-      ] ]
-    ] ],
     [ "Data Structures", "annotated.html", [
       [ "Data Structures", "annotated.html", "annotated_dup" ],
       [ "Data Structure Index", "classes.html", null ],
@@ -77,22 +58,22 @@ var NAVTREEINDEX =
 "bsp_2dp32g030_2gpio_8h.html#abad8be80ebf42951dedcc8b4327ffe12",
 "bsp_2dp32g030_2uart_8h.html#a1a16e8d1ce04b985f5c4809d38a51167",
 "bsp_2dp32g030_2uart_8h.html#ac196c90d9e58b8eddb78bf066da2c9a1",
-"dma_8h.html#a9ece75acead31180c92962722e9f2660",
-"dtmf_8h.html#a7c4941f21dbb5953bd674c440233763c",
-"globals_func_d.html",
-"misc_8c.html#ab7ca34dffd767657a3c77de8cdfcb701",
-"portcon_8h.html#a06f1eabaf9d1e67d1080bd3024366207",
-"portcon_8h.html#a2c42dad3dafe5def7cf36a684ebb21b2",
-"portcon_8h.html#a4bbd647ed64ab55cce1459fefddc1bc0",
-"portcon_8h.html#a69726b5a6bb0581c64da1a7ea3609487",
-"portcon_8h.html#a87e8fb4464b22376ac2c98443e06c209",
-"portcon_8h.html#aaa347665107686d0bb86618c8054e891",
-"portcon_8h.html#acf70dba1799b34c9a2b5e2399dced977",
-"portcon_8h.html#aee1fee9fd1bd262d9834ad0914ac7743",
-"saradc_8h.html#a36cd98afd7a476f51301abb74c9ea21d",
-"sram-overlay_8h_source.html",
-"structVFO__Info__t.html#a6f78fcb8ffdf26a8cd4d44ab9fa30901",
-"syscon_8h.html#ac9f7c26dd08844ae8e703b07b15dbad7"
+"dma_8h.html#a9f2cd1202b3b90854c3ffeb6f2ce9efc",
+"dtmf_8h.html#a7c4941f21dbb5953bd674c440233763ca073085e5aaa15ac20517e2c302494ced",
+"globals_func_r.html",
+"misc_8c.html#adf60770acf0633a95fb15661a366e40a",
+"portcon_8h.html#a0be0573b5752d78112fc800815ec220c",
+"portcon_8h.html#a2fb78f02b15a925a23fcf11468c647e4",
+"portcon_8h.html#a4f186ea0181c0df4d7369c22a724b316",
+"portcon_8h.html#a6c97e8c76ae275392cefc8dc4f482c85",
+"portcon_8h.html#a8c13d43465300f9513d75539b6b47467",
+"portcon_8h.html#aae7da5950d8d2235222f786ec007bc67",
+"portcon_8h.html#ad31c5c0e48495cc897ca2ab5ef5361bc",
+"portcon_8h.html#af3a491da0cde103cd955d496a08608cd",
+"saradc_8h.html#a68656cbc6a903ad44e68d74b54b12930",
+"structADC__Channel__t.html#adc020bb76776c2c0bcb624274d914d86",
+"syscon_8h.html#a0b7828e8e342f5983dd5b463f6d0717b",
+"syscon_8h.html#adff00c4d8137869ff9cdc51074174677"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';
