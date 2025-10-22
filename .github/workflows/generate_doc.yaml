@@ -1,38 +1,53 @@
-name: Generate Doxygen Documentation
+name: Build & Deploy Docs (MkDocs + Doxygen)
 
 on:
   push:
-    branches: [main]
+    branches: [ main, staging ]
   workflow_dispatch:
 
 permissions:
   contents: write
 
 jobs:
-  doxygen:
+  docs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout source
+      - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Install Doxygen
+      - name: Install Doxygen & Graphviz
         run: |
           sudo apt-get update
           sudo apt-get install -y doxygen graphviz
+      - name: Generate Doxygen
+        run: doxygen Doxyfile
 
-      - name: Generate documentation
+      - name: Setup Python and install MkDocs
         run: |
-          doxygen Doxyfile
+          python -m pip install --upgrade pip
+          pip install mkdocs-material
 
-      - name: Upload artifact (optional)
-        uses: actions/upload-artifact@v4
-        with:
-          name: doxygen-html
-          path: docs/html/
+      # (Optionnel) si tu veux ajuster site_url par branche :
+      # - name: Inject SITE_URL for MkDocs
+      #   run: |
+      #     echo "SITE_URL=https://<user>.github.io/<repo>${{ github.ref_name == 'main' && '' || '/staging' }}/" >> $GITHUB_ENV
+
+      - name: Build MkDocs site
+        run: |
+          # mkdocs build vers ./site (dossier final)
+          mkdocs build -d site
+
+      - name: Merge Doxygen into MkDocs output
+        run: |
+          mkdir -p site/doxygen
+          cp -r docs/html/* site/doxygen/
 
       - name: Deploy to gh-pages
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./docs/html
+          publish_branch: gh-pages
+          publish_dir: ./site          
+          destination_dir: ${{ github.ref_name == 'main' && '' || 'staging' }}
+          force_orphan: true 

@@ -1,0 +1,37 @@
+site_name: Quansheng UV-K5 Firmware Docs
+site_description: Guides haut niveau + Référence Doxygen du firmware UV-K5
+repo_url: https://github.com/<user>/<repo>
+repo_name: <user>/<repo>
+
+theme:
+  name: material
+  language: fr
+  features:
+    - navigation.expand
+    - navigation.tabs
+    - toc.integrate
+    - search.suggest
+    - search.highlight
+
+nav:
+  - Accueil: index.md
+  - Architecture: architecture.md
+  - Guides:
+      - Ajouter une entrée de menu: howto_add_menu_entry.md
+      - Sauvegarde EEPROM: howto_eeprom.md
+  - Référence du code:
+      - "→ Doxygen": doxygen/index.html 
+
+markdown_extensions:
+  - admonition
+  - toc:
+      permalink: true
+  - tables
+  - codehilite
+  - def_list
+  - footnotes
+  - attr_list
+  - md_in_html
+
+plugins:
+  - search
