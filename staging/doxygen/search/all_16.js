@@ -381,6 +381,6 @@ var searchData=
   ['ui_5fupdaterssi_378',['ui_updaterssi',['../rssi_8c.html#ad42a802875b07b9ce50dbc8a6020cca8',1,'UI_UpdateRSSI(uint16_t RSSI):&#160;rssi.c'],['../rssi_8h.html#ad42a802875b07b9ce50dbc8a6020cca8',1,'UI_UpdateRSSI(uint16_t RSSI):&#160;rssi.c']]],
   ['updater_379',['Flashing with the official updater',['../md_README.html#autotoc_md4',1,'']]],
   ['upperlimitfrequencybandtable_380',['upperlimitfrequencybandtable',['../frequencies_8c.html#ad3839e49264eae762346050950f2f6b7',1,'UpperLimitFrequencyBandTable:&#160;frequencies.c'],['../frequencies_8h.html#ad3839e49264eae762346050950f2f6b7',1,'UpperLimitFrequencyBandTable:&#160;frequencies.c']]],
-  ['uv_20k5_20–_20documentation_381',['Quansheng UV-K5 – Documentation',['../md_docs_2index.html',1,'']]],
+  ['uv_20k5_20–_20documentation_20staging_381',['Quansheng UV-K5 – Documentation Staging',['../md_docs_2index.html',1,'']]],
   ['uv_20k5_20v2_201_2027_20firmware_382',['Open reimplementation of the Quan Sheng UV K5 v2.1.27 firmware',['../md_README.html',1,'']]]
 ];

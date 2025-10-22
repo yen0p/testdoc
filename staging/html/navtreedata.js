@@ -25,7 +25,7 @@
 var NAVTREE =
 [
   [ "Quansheng UV-K5 Firmware", "index.html", [
-    [ "Quansheng UV-K5 – Documentation", "md_docs_2index.html", null ],
+    [ "Quansheng UV-K5 – Documentation Staging", "md_docs_2index.html", null ],
     [ "Open reimplementation of the Quan Sheng UV K5 v2.1.27 firmware", "md_README.html", [
       [ "Compiler", "md_README.html#autotoc_md2", null ],
       [ "Building", "md_README.html#autotoc_md3", null ],

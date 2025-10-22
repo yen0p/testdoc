@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['k5_20–_20documentation_0',['Quansheng UV-K5 – Documentation',['../md_docs_2index.html',1,'']]],
+  ['k5_20–_20documentation_20staging_0',['Quansheng UV-K5 – Documentation Staging',['../md_docs_2index.html',1,'']]],
   ['k5_20v2_201_2027_20firmware_1',['Open reimplementation of the Quan Sheng UV K5 v2.1.27 firmware',['../md_README.html',1,'']]],
   ['k5prog_20k5prog_20a_2',['Flashing with &lt;a href=&quot;https://github.com/piotr022/k5prog&quot; &gt;k5prog&lt;/a&gt;',['../md_README.html#autotoc_md5',1,'']]],
   ['key_5f0_3',['KEY_0',['../keyboard_8h.html#a8a16013cf01a62f0820a0de1dfda7b4fa6b30f8af6c880e1aca01b91aa13c6ff9',1,'keyboard.h']]],
