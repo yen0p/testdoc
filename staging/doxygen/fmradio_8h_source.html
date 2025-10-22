@@ -99,29 +99,47 @@ $(document).ready(function(){initNavTree('fmradio_8h_source.html',''); initResiz
 </div><!--header-->
 <div class="contents">
 <a href="fmradio_8h.html">Go to the documentation of this file.</a><div class="fragment"><div class="line"><a id="l00001" name="l00001"></a><span class="lineno">    1</span><span class="comment">/* Copyright 2023 Dual Tachyon</span></div>
-<div class="line"><a id="l00002" name="l00002"></a><span class="lineno">    2</span><span class="comment"> * https://github.com/DualTachyon</span></div>
-<div class="line"><a id="l00003" name="l00003"></a><span class="lineno">    3</span><span class="comment"> *</span></div>
-<div class="line"><a id="l00004" name="l00004"></a><span class="lineno">    4</span><span class="comment"> * Licensed under the Apache License, Version 2.0 (the &quot;License&quot;);</span></div>
-<div class="line"><a id="l00005" name="l00005"></a><span class="lineno">    5</span><span class="comment"> * you may not use this file except in compliance with the License.</span></div>
-<div class="line"><a id="l00006" name="l00006"></a><span class="lineno">    6</span><span class="comment"> * You may obtain a copy of the License at</span></div>
-<div class="line"><a id="l00007" name="l00007"></a><span class="lineno">    7</span><span class="comment"> *</span></div>
-<div class="line"><a id="l00008" name="l00008"></a><span class="lineno">    8</span><span class="comment"> *     http://www.apache.org/licenses/LICENSE-2.0</span></div>
-<div class="line"><a id="l00009" name="l00009"></a><span class="lineno">    9</span><span class="comment"> *</span></div>
-<div class="line"><a id="l00010" name="l00010"></a><span class="lineno">   10</span><span class="comment"> *     Unless required by applicable law or agreed to in writing, software</span></div>
-<div class="line"><a id="l00011" name="l00011"></a><span class="lineno">   11</span><span class="comment"> *     distributed under the License is distributed on an &quot;AS IS&quot; BASIS,</span></div>
-<div class="line"><a id="l00012" name="l00012"></a><span class="lineno">   12</span><span class="comment"> *     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.</span></div>
-<div class="line"><a id="l00013" name="l00013"></a><span class="lineno">   13</span><span class="comment"> *     See the License for the specific language governing permissions and</span></div>
-<div class="line"><a id="l00014" name="l00014"></a><span class="lineno">   14</span><span class="comment"> *     limitations under the License.</span></div>
-<div class="line"><a id="l00015" name="l00015"></a><span class="lineno">   15</span><span class="comment"> */</span></div>
+<div class="line"><span class="lineno">    2</span><span class="comment"> * https://github.com/DualTachyon</span></div>
+<div class="line"><span class="lineno">    3</span><span class="comment"> *</span></div>
+<div class="line"><span class="lineno">    4</span><span class="comment"> * Licensed under the Apache License, Version 2.0 (the &quot;License&quot;);</span></div>
+<div class="line"><span class="lineno">    5</span><span class="comment"> * you may not use this file except in compliance with the License.</span></div>
+<div class="line"><span class="lineno">    6</span><span class="comment"> * You may obtain a copy of the License at</span></div>
+<div class="line"><span class="lineno">    7</span><span class="comment"> *</span></div>
+<div class="line"><span class="lineno">    8</span><span class="comment"> *     http://www.apache.org/licenses/LICENSE-2.0</span></div>
+<div class="line"><span class="lineno">    9</span><span class="comment"> *</span></div>
+<div class="line"><span class="lineno">   10</span><span class="comment"> *     Unless required by applicable law or agreed to in writing, software</span></div>
+<div class="line"><span class="lineno">   11</span><span class="comment"> *     distributed under the License is distributed on an &quot;AS IS&quot; BASIS,</span></div>
+<div class="line"><span class="lineno">   12</span><span class="comment"> *     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.</span></div>
+<div class="line"><span class="lineno">   13</span><span class="comment"> *     See the License for the specific language governing permissions and</span></div>
+<div class="line"><span class="lineno">   14</span><span class="comment"> *     limitations under the License.</span></div>
+<div class="line"><span class="lineno">   15</span><span class="comment"> */</span></div>
 <div class="line"><a id="l00016" name="l00016"></a><span class="lineno">   16</span> </div>
-<div class="line"><a id="l00017" name="l00017"></a><span class="lineno">   17</span><span class="preprocessor">#ifndef UI_FM_H</span></div>
-<div class="line"><a id="l00018" name="l00018"></a><span class="lineno">   18</span><span class="preprocessor">#define UI_FM_H</span></div>
+<div class="line"><a id="l00017" name="l00017"></a><span class="lineno">   17</span><span class="preprocessor">#</span><span class="preprocessor">ifndef</span> <span class="preprocessor">UI_FM_H</span></div>
+<div class="line"><a id="l00018" name="l00018"></a><span class="lineno">   18</span><span class="preprocessor">#</span><span class="preprocessor">define</span> <span class="preprocessor">UI_FM_H</span></div>
 <div class="line"><a id="l00019" name="l00019"></a><span class="lineno">   19</span> </div>
-<div class="line"><a id="l00020" name="l00020"></a><span class="lineno">   20</span><span class="keywordtype">void</span> <a class="code hl_function" href="fmradio_8h.html#af7e35bfe76bfdc89e9593ea231b4b5c6">UI_DisplayFM</a>(<span class="keywordtype">void</span>);</div>
+<div class="line"><a id="l00020" name="l00020"></a><span class="lineno">   20</span><span class="keywordtype">void</span> <a class="code hl_function" href="fmradio_8c.html#af7e35bfe76bfdc89e9593ea231b4b5c6">UI_DisplayFM</a>(<span class="keywordtype">void</span>);</div>
 <div class="line"><a id="l00021" name="l00021"></a><span class="lineno">   21</span> </div>
-<div class="line"><a id="l00022" name="l00022"></a><span class="lineno">   22</span><span class="preprocessor">#endif</span></div>
-<div class="line"><a id="l00023" name="l00023"></a><span class="lineno">   23</span> </div>
-<div class="ttc" id="afmradio_8h_html_af7e35bfe76bfdc89e9593ea231b4b5c6"><div class="ttname"><a href="fmradio_8h.html#af7e35bfe76bfdc89e9593ea231b4b5c6">UI_DisplayFM</a></div><div class="ttdeci">void UI_DisplayFM(void)</div><div class="ttdef"><b>Definition</b> fmradio.c:28</div></div>
+<div class="line"><a id="l00022" name="l00022"></a><span class="lineno">   22</span><span class="preprocessor">#</span><span class="preprocessor">endif</span></div>
+<div class="ttc" id="afm_8c_html_a288b545470d7afd4274a7ae0742b1197"><div class="ttname"><a href="fm_8c.html#a288b545470d7afd4274a7ae0742b1197">gFM_ScanState</a></div><div class="ttdeci">volatile int8_t gFM_ScanState</div><div class="ttdef"><b>Definition</b> fm.c:38</div></div>
+<div class="ttc" id="afm_8c_html_a490a6e032e140ce4ce6dd54e639c825c"><div class="ttname"><a href="fm_8c.html#a490a6e032e140ce4ce6dd54e639c825c">gFM_Channels</a></div><div class="ttdeci">uint16_t gFM_Channels[20]</div><div class="ttdef"><b>Definition</b> fm.c:34</div></div>
+<div class="ttc" id="afm_8c_html_a914883a3151eb5463b8e2a20f09d8cd4"><div class="ttname"><a href="fm_8c.html#a914883a3151eb5463b8e2a20f09d8cd4">gFM_ChannelPosition</a></div><div class="ttdeci">uint8_t gFM_ChannelPosition</div><div class="ttdef"><b>Definition</b> fm.c:40</div></div>
+<div class="ttc" id="afm_8c_html_a965379c1feff4fadf31392699e53f84b"><div class="ttname"><a href="fm_8c.html#a965379c1feff4fadf31392699e53f84b">gFM_AutoScan</a></div><div class="ttdeci">bool gFM_AutoScan</div><div class="ttdef"><b>Definition</b> fm.c:39</div></div>
+<div class="ttc" id="afm_8h_html_af9bdc3014f3d54c426b6d2df10de4960ae32bdfb75b076222d2985f1513b04945"><div class="ttname"><a href="fm_8h.html#af9bdc3014f3d54c426b6d2df10de4960ae32bdfb75b076222d2985f1513b04945">FM_SCAN_OFF</a></div><div class="ttdeci">@ FM_SCAN_OFF</div><div class="ttdef"><b>Definition</b> fm.h:26</div></div>
+<div class="ttc" id="afmradio_8c_html_af7e35bfe76bfdc89e9593ea231b4b5c6"><div class="ttname"><a href="fmradio_8c.html#af7e35bfe76bfdc89e9593ea231b4b5c6">UI_DisplayFM</a></div><div class="ttdeci">void UI_DisplayFM(void)</div><div class="ttdef"><b>Definition</b> fmradio.c:28</div></div>
+<div class="ttc" id="ahelper_8h_html_a855cecea4fea853903fa1bb346111cd1"><div class="ttname"><a href="helper_8h.html#a855cecea4fea853903fa1bb346111cd1">UI_PrintString</a></div><div class="ttdeci">void UI_PrintString(const char *pString, uint8_t Start, uint8_t End, uint8_t Line, uint8_t Width, bool bCentered)</div><div class="ttdef"><b>Definition</b> helper.c:73</div></div>
+<div class="ttc" id="ahelper_8h_html_acaa13baa876b608c185bd9079e55089a"><div class="ttname"><a href="helper_8h.html#acaa13baa876b608c185bd9079e55089a">UI_GenerateChannelString</a></div><div class="ttdeci">void UI_GenerateChannelString(char *pString, uint8_t Channel)</div><div class="ttdef"><b>Definition</b> helper.c:24</div></div>
+<div class="ttc" id="ahelper_8h_html_ae6bf8738043e4a2ce2b40d96c8da286c"><div class="ttname"><a href="helper_8h.html#ae6bf8738043e4a2ce2b40d96c8da286c">UI_DisplayFrequency</a></div><div class="ttdeci">void UI_DisplayFrequency(const char *pDigits, uint8_t X, uint8_t Y, bool bDisplayLeadingZero, bool bFlag)</div><div class="ttdef"><b>Definition</b> helper.c:90</div></div>
+<div class="ttc" id="ainputbox_8h_html_abb3879c5fbf85b4719399ae6d06b3dff"><div class="ttname"><a href="inputbox_8h.html#abb3879c5fbf85b4719399ae6d06b3dff">gInputBox</a></div><div class="ttdeci">char gInputBox[8]</div><div class="ttdef"><b>Definition</b> inputbox.c:20</div></div>
+<div class="ttc" id="ainputbox_8h_html_acb4d74f22fae6c43bc5dd865383e987b"><div class="ttname"><a href="inputbox_8h.html#acb4d74f22fae6c43bc5dd865383e987b">gInputBoxIndex</a></div><div class="ttdeci">uint8_t gInputBoxIndex</div><div class="ttdef"><b>Definition</b> inputbox.c:21</div></div>
+<div class="ttc" id="amisc_8h_html_ab44d124a8f4b68eb1ca28ad32fcf16fa"><div class="ttname"><a href="misc_8h.html#ab44d124a8f4b68eb1ca28ad32fcf16fa">NUMBER_ToDigits</a></div><div class="ttdeci">void NUMBER_ToDigits(uint32_t Value, char *pDigits)</div><div class="ttdef"><b>Definition</b> misc.c:184</div></div>
+<div class="ttc" id="asettings_8h_html_a47e1313b14589622e300dbe88c2b4721"><div class="ttname"><a href="settings_8h.html#a47e1313b14589622e300dbe88c2b4721">gEeprom</a></div><div class="ttdeci">EEPROM_Config_t gEeprom</div><div class="ttdef"><b>Definition</b> settings.c:28</div></div>
+<div class="ttc" id="ast7565_8h_html_a1480fd34d8ed4ec179f4bd612b7a8215"><div class="ttname"><a href="st7565_8h.html#a1480fd34d8ed4ec179f4bd612b7a8215">gFrameBuffer</a></div><div class="ttdeci">uint8_t gFrameBuffer[7][128]</div><div class="ttdef"><b>Definition</b> st7565.c:27</div></div>
+<div class="ttc" id="ast7565_8h_html_ac4a99ee2623e4855c910c01d2c1004c3"><div class="ttname"><a href="st7565_8h.html#ac4a99ee2623e4855c910c01d2c1004c3">ST7565_BlitFullScreen</a></div><div class="ttdeci">void ST7565_BlitFullScreen(void)</div><div class="ttdef"><b>Definition</b> st7565.c:55</div></div>
+<div class="ttc" id="astructEEPROM__Config__t_html_a31e70edbb9f8f867cfe13e034ef9e7b0"><div class="ttname"><a href="structEEPROM__Config__t.html#a31e70edbb9f8f867cfe13e034ef9e7b0">EEPROM_Config_t::FM_SelectedChannel</a></div><div class="ttdeci">uint8_t FM_SelectedChannel</div><div class="ttdef"><b>Definition</b> settings.h:136</div></div>
+<div class="ttc" id="astructEEPROM__Config__t_html_a861b890cf2f4fdcf4dc314fb1968b0c6"><div class="ttname"><a href="structEEPROM__Config__t.html#a861b890cf2f4fdcf4dc314fb1968b0c6">EEPROM_Config_t::FM_IsMrMode</a></div><div class="ttdeci">bool FM_IsMrMode</div><div class="ttdef"><b>Definition</b> settings.h:137</div></div>
+<div class="ttc" id="astructEEPROM__Config__t_html_aa22b40d262a0e5a7e62ce32150dac991"><div class="ttname"><a href="structEEPROM__Config__t.html#aa22b40d262a0e5a7e62ce32150dac991">EEPROM_Config_t::FM_FrequencyPlaying</a></div><div class="ttdeci">uint16_t FM_FrequencyPlaying</div><div class="ttdef"><b>Definition</b> settings.h:138</div></div>
+<div class="ttc" id="aui_8h_html_aa7db280f3de89945589543b42d087dc5"><div class="ttname"><a href="ui_8h.html#aa7db280f3de89945589543b42d087dc5">gAskToSave</a></div><div class="ttdeci">bool gAskToSave</div><div class="ttdef"><b>Definition</b> ui.c:39</div></div>
+<div class="ttc" id="aui_8h_html_af86d60e1fe22695ba5d336fdce3fb98d"><div class="ttname"><a href="ui_8h.html#af86d60e1fe22695ba5d336fdce3fb98d">gAskToDelete</a></div><div class="ttdeci">bool gAskToDelete</div><div class="ttdef"><b>Definition</b> ui.c:40</div></div>
 </div><!-- fragment --></div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->

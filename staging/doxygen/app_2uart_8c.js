@@ -33,5 +33,5 @@ var app_2uart_8c =
     [ "Header", "app_2uart_8c.html#a1a4e8d1b88b6365e934ef2f248b8922b", null ],
     [ "Obfuscation", "app_2uart_8c.html#aec77447eaadd27325f4c28dc51fb0413", null ],
     [ "Timestamp", "app_2uart_8c.html#ae6678057e9ed5db32d6d2db84671c146", null ],
-    [ "UART_Command", "app_2uart_8c.html#a3d39efc9ce0a01ceb7d17f09a2545a7b", null ]
+    [ "UART_Command", "app_2uart_8c.html#a9030dba5dff389737a344b40ad6cdd48", null ]
 ];

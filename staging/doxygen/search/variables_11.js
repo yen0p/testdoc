@@ -7,7 +7,7 @@ var searchData=
   ['scanlist2_5fparticipation_4',['SCANLIST2_PARTICIPATION',['../structVFO__Info__t.html#af5e866a3c8e1c9fc93792c7f83ccf242',1,'VFO_Info_t']]],
   ['scanlist_5fpriority_5fch1_5',['SCANLIST_PRIORITY_CH1',['../structEEPROM__Config__t.html#a0124b14a539199fa4280f414bf379630',1,'EEPROM_Config_t']]],
   ['scanlist_5fpriority_5fch2_6',['SCANLIST_PRIORITY_CH2',['../structEEPROM__Config__t.html#aa2e1957f94f2cc9b5020e2353f334668',1,'EEPROM_Config_t']]],
-  ['scanpausedelayin10msec_7',['scanpausedelayin10msec',['../app_2scanner_8c.html#a84327b92ac89eb2143974f454b0433ae',1,'ScanPauseDelayIn10msec:&#160;scanner.c'],['../app_2scanner_8h.html#a84327b92ac89eb2143974f454b0433ae',1,'ScanPauseDelayIn10msec:&#160;scanner.c']]],
+  ['scanpausedelayin10msec_7',['scanpausedelayin10msec',['../app_2scanner_8h.html#a84327b92ac89eb2143974f454b0433ae',1,'ScanPauseDelayIn10msec:&#160;scanner.c'],['../app_2scanner_8c.html#a84327b92ac89eb2143974f454b0433ae',1,'ScanPauseDelayIn10msec:&#160;scanner.c']]],
   ['scrambling_5ftype_8',['SCRAMBLING_TYPE',['../structVFO__Info__t.html#abec14b67758cbe47c862f0297eded58a',1,'VFO_Info_t']]],
   ['screenchannel_9',['ScreenChannel',['../structEEPROM__Config__t.html#a3b68d2df77b44e9e384c663b566507f9',1,'EEPROM_Config_t']]],
   ['size_10',['size',['../structHeader__t.html#a5cb6ecc4a71913293a82ae00037ddd02',1,'Header_t::Size'],['../structCMD__051B__t.html#aca9446626440398c31adb007ca2a1304',1,'CMD_051B_t::Size'],['../structREPLY__051B__t.html#a5d685f437d5b239c8b2218fc064c7bc6',1,'REPLY_051B_t::Size'],['../structCMD__051D__t.html#a3be34f784c8147312d6ea4f9c0b9df12',1,'CMD_051D_t::Size']]],
@@ -28,5 +28,5 @@ var searchData=
   ['stat_25',['STAT',['../structADC__Channel__t.html#aac66c36ad92056f27af4e87e13f428b2',1,'ADC_Channel_t']]],
   ['step_5fsetting_26',['STEP_SETTING',['../structVFO__Info__t.html#aba73025d4eaf7264dd96d7bdf462689b',1,'VFO_Info_t']]],
   ['stepfrequency_27',['StepFrequency',['../structVFO__Info__t.html#a472eb4a2b0929571c40b476190af39c6',1,'VFO_Info_t']]],
-  ['stepfrequencytable_28',['stepfrequencytable',['../frequencies_8c.html#a8641ef396b41d5d0ad56d8efc34694de',1,'StepFrequencyTable:&#160;frequencies.c'],['../frequencies_8h.html#a8641ef396b41d5d0ad56d8efc34694de',1,'StepFrequencyTable:&#160;frequencies.c']]]
+  ['stepfrequencytable_28',['stepfrequencytable',['../frequencies_8h.html#a8641ef396b41d5d0ad56d8efc34694de',1,'StepFrequencyTable:&#160;frequencies.c'],['../frequencies_8c.html#a8641ef396b41d5d0ad56d8efc34694de',1,'StepFrequencyTable:&#160;frequencies.c']]]
 ];

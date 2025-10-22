@@ -99,35 +99,34 @@ $(document).ready(function(){initNavTree('font_8h_source.html',''); initResizabl
 </div><!--header-->
 <div class="contents">
 <a href="font_8h.html">Go to the documentation of this file.</a><div class="fragment"><div class="line"><a id="l00001" name="l00001"></a><span class="lineno">    1</span><span class="comment">/* Copyright 2023 Dual Tachyon</span></div>
-<div class="line"><a id="l00002" name="l00002"></a><span class="lineno">    2</span><span class="comment"> * https://github.com/DualTachyon</span></div>
-<div class="line"><a id="l00003" name="l00003"></a><span class="lineno">    3</span><span class="comment"> *</span></div>
-<div class="line"><a id="l00004" name="l00004"></a><span class="lineno">    4</span><span class="comment"> * Licensed under the Apache License, Version 2.0 (the &quot;License&quot;);</span></div>
-<div class="line"><a id="l00005" name="l00005"></a><span class="lineno">    5</span><span class="comment"> * you may not use this file except in compliance with the License.</span></div>
-<div class="line"><a id="l00006" name="l00006"></a><span class="lineno">    6</span><span class="comment"> * You may obtain a copy of the License at</span></div>
-<div class="line"><a id="l00007" name="l00007"></a><span class="lineno">    7</span><span class="comment"> *</span></div>
-<div class="line"><a id="l00008" name="l00008"></a><span class="lineno">    8</span><span class="comment"> *     http://www.apache.org/licenses/LICENSE-2.0</span></div>
-<div class="line"><a id="l00009" name="l00009"></a><span class="lineno">    9</span><span class="comment"> *</span></div>
-<div class="line"><a id="l00010" name="l00010"></a><span class="lineno">   10</span><span class="comment"> *     Unless required by applicable law or agreed to in writing, software</span></div>
-<div class="line"><a id="l00011" name="l00011"></a><span class="lineno">   11</span><span class="comment"> *     distributed under the License is distributed on an &quot;AS IS&quot; BASIS,</span></div>
-<div class="line"><a id="l00012" name="l00012"></a><span class="lineno">   12</span><span class="comment"> *     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.</span></div>
-<div class="line"><a id="l00013" name="l00013"></a><span class="lineno">   13</span><span class="comment"> *     See the License for the specific language governing permissions and</span></div>
-<div class="line"><a id="l00014" name="l00014"></a><span class="lineno">   14</span><span class="comment"> *     limitations under the License.</span></div>
-<div class="line"><a id="l00015" name="l00015"></a><span class="lineno">   15</span><span class="comment"> */</span></div>
+<div class="line"><span class="lineno">    2</span><span class="comment"> * https://github.com/DualTachyon</span></div>
+<div class="line"><span class="lineno">    3</span><span class="comment"> *</span></div>
+<div class="line"><span class="lineno">    4</span><span class="comment"> * Licensed under the Apache License, Version 2.0 (the &quot;License&quot;);</span></div>
+<div class="line"><span class="lineno">    5</span><span class="comment"> * you may not use this file except in compliance with the License.</span></div>
+<div class="line"><span class="lineno">    6</span><span class="comment"> * You may obtain a copy of the License at</span></div>
+<div class="line"><span class="lineno">    7</span><span class="comment"> *</span></div>
+<div class="line"><span class="lineno">    8</span><span class="comment"> *     http://www.apache.org/licenses/LICENSE-2.0</span></div>
+<div class="line"><span class="lineno">    9</span><span class="comment"> *</span></div>
+<div class="line"><span class="lineno">   10</span><span class="comment"> *     Unless required by applicable law or agreed to in writing, software</span></div>
+<div class="line"><span class="lineno">   11</span><span class="comment"> *     distributed under the License is distributed on an &quot;AS IS&quot; BASIS,</span></div>
+<div class="line"><span class="lineno">   12</span><span class="comment"> *     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.</span></div>
+<div class="line"><span class="lineno">   13</span><span class="comment"> *     See the License for the specific language governing permissions and</span></div>
+<div class="line"><span class="lineno">   14</span><span class="comment"> *     limitations under the License.</span></div>
+<div class="line"><span class="lineno">   15</span><span class="comment"> */</span></div>
 <div class="line"><a id="l00016" name="l00016"></a><span class="lineno">   16</span> </div>
-<div class="line"><a id="l00017" name="l00017"></a><span class="lineno">   17</span><span class="preprocessor">#ifndef FONT_H</span></div>
-<div class="line"><a id="l00018" name="l00018"></a><span class="lineno">   18</span><span class="preprocessor">#define FONT_H</span></div>
+<div class="line"><a id="l00017" name="l00017"></a><span class="lineno">   17</span><span class="preprocessor">#</span><span class="preprocessor">ifndef</span> <span class="preprocessor">FONT_H</span></div>
+<div class="line"><a id="l00018" name="l00018"></a><span class="lineno">   18</span><span class="preprocessor">#</span><span class="preprocessor">define</span> <span class="preprocessor">FONT_H</span></div>
 <div class="line"><a id="l00019" name="l00019"></a><span class="lineno">   19</span> </div>
-<div class="line"><a id="l00020" name="l00020"></a><span class="lineno">   20</span><span class="preprocessor">#include &lt;stdint.h&gt;</span></div>
+<div class="line"><a id="l00020" name="l00020"></a><span class="lineno">   20</span><span class="preprocessor">#</span><span class="preprocessor">include</span> <span class="preprocessor">&lt;</span><span class="preprocessor">stdint</span><span class="preprocessor">.</span><span class="preprocessor">h</span><span class="preprocessor">&gt;</span></div>
 <div class="line"><a id="l00021" name="l00021"></a><span class="lineno">   21</span> </div>
-<div class="line"><a id="l00022" name="l00022"></a><span class="lineno">   22</span><span class="keyword">extern</span> <span class="keyword">const</span> uint8_t <a class="code hl_variable" href="font_8h.html#a66e97fc58c28f4947af4b441969634a4">gFontBig</a>[95][16];</div>
-<div class="line"><a id="l00023" name="l00023"></a><span class="lineno">   23</span><span class="keyword">extern</span> <span class="keyword">const</span> uint8_t <a class="code hl_variable" href="font_8h.html#a19d5a4a5d558adb362376ebcc31dc66a">gFontBigDigits</a>[11][26];</div>
-<div class="line"><a id="l00024" name="l00024"></a><span class="lineno">   24</span><span class="keyword">extern</span> <span class="keyword">const</span> uint8_t <a class="code hl_variable" href="font_8h.html#a2c3f6947cd4959399925e384d5bee774">gFontSmallDigits</a>[11][7];</div>
+<div class="line"><a id="l00022" name="l00022"></a><span class="lineno">   22</span><span class="keyword">extern</span> <span class="keyword">const</span> uint8_t <a class="code hl_variable" href="font_8c.html#a66e97fc58c28f4947af4b441969634a4">gFontBig</a>[95][16];</div>
+<div class="line"><a id="l00023" name="l00023"></a><span class="lineno">   23</span><span class="keyword">extern</span> <span class="keyword">const</span> uint8_t <a class="code hl_variable" href="font_8c.html#a19d5a4a5d558adb362376ebcc31dc66a">gFontBigDigits</a>[11][26];</div>
+<div class="line"><a id="l00024" name="l00024"></a><span class="lineno">   24</span><span class="keyword">extern</span> <span class="keyword">const</span> uint8_t <a class="code hl_variable" href="font_8c.html#a2c3f6947cd4959399925e384d5bee774">gFontSmallDigits</a>[11][7];</div>
 <div class="line"><a id="l00025" name="l00025"></a><span class="lineno">   25</span> </div>
-<div class="line"><a id="l00026" name="l00026"></a><span class="lineno">   26</span><span class="preprocessor">#endif</span></div>
-<div class="line"><a id="l00027" name="l00027"></a><span class="lineno">   27</span> </div>
-<div class="ttc" id="afont_8h_html_a19d5a4a5d558adb362376ebcc31dc66a"><div class="ttname"><a href="font_8h.html#a19d5a4a5d558adb362376ebcc31dc66a">gFontBigDigits</a></div><div class="ttdeci">const uint8_t gFontBigDigits[11][26]</div><div class="ttdef"><b>Definition</b> font.c:117</div></div>
-<div class="ttc" id="afont_8h_html_a2c3f6947cd4959399925e384d5bee774"><div class="ttname"><a href="font_8h.html#a2c3f6947cd4959399925e384d5bee774">gFontSmallDigits</a></div><div class="ttdeci">const uint8_t gFontSmallDigits[11][7]</div><div class="ttdef"><b>Definition</b> font.c:131</div></div>
-<div class="ttc" id="afont_8h_html_a66e97fc58c28f4947af4b441969634a4"><div class="ttname"><a href="font_8h.html#a66e97fc58c28f4947af4b441969634a4">gFontBig</a></div><div class="ttdeci">const uint8_t gFontBig[95][16]</div><div class="ttdef"><b>Definition</b> font.c:19</div></div>
+<div class="line"><a id="l00026" name="l00026"></a><span class="lineno">   26</span><span class="preprocessor">#</span><span class="preprocessor">endif</span></div>
+<div class="ttc" id="afont_8c_html_a19d5a4a5d558adb362376ebcc31dc66a"><div class="ttname"><a href="font_8c.html#a19d5a4a5d558adb362376ebcc31dc66a">gFontBigDigits</a></div><div class="ttdeci">const uint8_t gFontBigDigits[11][26]</div><div class="ttdef"><b>Definition</b> font.c:117</div></div>
+<div class="ttc" id="afont_8c_html_a2c3f6947cd4959399925e384d5bee774"><div class="ttname"><a href="font_8c.html#a2c3f6947cd4959399925e384d5bee774">gFontSmallDigits</a></div><div class="ttdeci">const uint8_t gFontSmallDigits[11][7]</div><div class="ttdef"><b>Definition</b> font.c:131</div></div>
+<div class="ttc" id="afont_8c_html_a66e97fc58c28f4947af4b441969634a4"><div class="ttname"><a href="font_8c.html#a66e97fc58c28f4947af4b441969634a4">gFontBig</a></div><div class="ttdeci">const uint8_t gFontBig[95][16]</div><div class="ttdef"><b>Definition</b> font.c:19</div></div>
 </div><!-- fragment --></div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->

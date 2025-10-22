@@ -18,7 +18,7 @@ var searchData=
   ['cpol_15',['CPOL',['../structSPI__Config__t.html#abd7001768a9ae3a99942c808b5dc26de',1,'SPI_Config_t']]],
   ['cr_16',['CR',['../structSPI__Port__t.html#a0616b36cc896c1d58836f1dd275cccb0',1,'SPI_Port_t']]],
   ['cross_5fband_5frx_5ftx_17',['CROSS_BAND_RX_TX',['../structEEPROM__Config__t.html#a451062a7c64045c77d08369bf7d54c23',1,'EEPROM_Config_t']]],
-  ['ctcss_5foptions_18',['ctcss_options',['../dcs_8c.html#a801f21ecb10e3196330147c24c60ec82',1,'CTCSS_Options:&#160;dcs.c'],['../dcs_8h.html#a801f21ecb10e3196330147c24c60ec82',1,'CTCSS_Options:&#160;dcs.c']]],
+  ['ctcss_5foptions_18',['ctcss_options',['../dcs_8h.html#a801f21ecb10e3196330147c24c60ec82',1,'CTCSS_Options:&#160;dcs.c'],['../dcs_8c.html#a801f21ecb10e3196330147c24c60ec82',1,'CTCSS_Options:&#160;dcs.c']]],
   ['ctr_19',['CTR',['../structDMA__Channel__t.html#a489f3522cf6cd3a4a71c67f3a6971928',1,'DMA_Channel_t']]],
   ['ctrl_20',['CTRL',['../structUART__Port__t.html#ab2499fcf0b84422ceefe5aa6b0b3ec17',1,'UART_Port_t']]],
   ['current_21',['Current',['../structREPLY__0529__t.html#ad7e11b824442533c329d1f7f61e58e41',1,'REPLY_0529_t']]]

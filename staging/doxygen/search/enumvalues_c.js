@@ -1,7 +1,7 @@
 var searchData=
 [
-  ['radio_5fchannel_5fdown_0',['RADIO_CHANNEL_DOWN',['../radio_8h.html#a39fca1837c5ce7715cbf571669660c13a03b59668b14fb5e0902f36ebc00d69cb',1,'radio.h']]],
-  ['radio_5fchannel_5fup_1',['RADIO_CHANNEL_UP',['../radio_8h.html#a39fca1837c5ce7715cbf571669660c13abc3d8bf2bedbe1704bb95f90cda15707',1,'radio.h']]],
+  ['radio_5fchannel_5fdown_0',['RADIO_CHANNEL_DOWN',['../radio_8h.html#aba01db17f4a2bfbc3db60dc172972a25a03b59668b14fb5e0902f36ebc00d69cb',1,'radio.h']]],
+  ['radio_5fchannel_5fup_1',['RADIO_CHANNEL_UP',['../radio_8h.html#aba01db17f4a2bfbc3db60dc172972a25abc3d8bf2bedbe1704bb95f90cda15707',1,'radio.h']]],
   ['roger_5fmode_5fmdc_2',['ROGER_MODE_MDC',['../settings_8h.html#a5359aad02d580d2e49def48a7a4a0fbda1b05ee3f2e539ef7cdaf879e53fd839d',1,'settings.h']]],
   ['roger_5fmode_5foff_3',['ROGER_MODE_OFF',['../settings_8h.html#a5359aad02d580d2e49def48a7a4a0fbda9593fc2644aeeef43ab1975eecfd8013',1,'settings.h']]],
   ['roger_5fmode_5froger_4',['ROGER_MODE_ROGER',['../settings_8h.html#a5359aad02d580d2e49def48a7a4a0fbda6662c0cd3122fd374557039c015f55bc',1,'settings.h']]],

@@ -99,26 +99,26 @@ $(document).ready(function(){initNavTree('st7565_8h_source.html',''); initResiza
 </div><!--header-->
 <div class="contents">
 <a href="st7565_8h.html">Go to the documentation of this file.</a><div class="fragment"><div class="line"><a id="l00001" name="l00001"></a><span class="lineno">    1</span><span class="comment">/* Copyright 2023 Dual Tachyon</span></div>
-<div class="line"><a id="l00002" name="l00002"></a><span class="lineno">    2</span><span class="comment"> * https://github.com/DualTachyon</span></div>
-<div class="line"><a id="l00003" name="l00003"></a><span class="lineno">    3</span><span class="comment"> *</span></div>
-<div class="line"><a id="l00004" name="l00004"></a><span class="lineno">    4</span><span class="comment"> * Licensed under the Apache License, Version 2.0 (the &quot;License&quot;);</span></div>
-<div class="line"><a id="l00005" name="l00005"></a><span class="lineno">    5</span><span class="comment"> * you may not use this file except in compliance with the License.</span></div>
-<div class="line"><a id="l00006" name="l00006"></a><span class="lineno">    6</span><span class="comment"> * You may obtain a copy of the License at</span></div>
-<div class="line"><a id="l00007" name="l00007"></a><span class="lineno">    7</span><span class="comment"> *</span></div>
-<div class="line"><a id="l00008" name="l00008"></a><span class="lineno">    8</span><span class="comment"> *     http://www.apache.org/licenses/LICENSE-2.0</span></div>
-<div class="line"><a id="l00009" name="l00009"></a><span class="lineno">    9</span><span class="comment"> *</span></div>
-<div class="line"><a id="l00010" name="l00010"></a><span class="lineno">   10</span><span class="comment"> *     Unless required by applicable law or agreed to in writing, software</span></div>
-<div class="line"><a id="l00011" name="l00011"></a><span class="lineno">   11</span><span class="comment"> *     distributed under the License is distributed on an &quot;AS IS&quot; BASIS,</span></div>
-<div class="line"><a id="l00012" name="l00012"></a><span class="lineno">   12</span><span class="comment"> *     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.</span></div>
-<div class="line"><a id="l00013" name="l00013"></a><span class="lineno">   13</span><span class="comment"> *     See the License for the specific language governing permissions and</span></div>
-<div class="line"><a id="l00014" name="l00014"></a><span class="lineno">   14</span><span class="comment"> *     limitations under the License.</span></div>
-<div class="line"><a id="l00015" name="l00015"></a><span class="lineno">   15</span><span class="comment"> */</span></div>
+<div class="line"><span class="lineno">    2</span><span class="comment"> * https://github.com/DualTachyon</span></div>
+<div class="line"><span class="lineno">    3</span><span class="comment"> *</span></div>
+<div class="line"><span class="lineno">    4</span><span class="comment"> * Licensed under the Apache License, Version 2.0 (the &quot;License&quot;);</span></div>
+<div class="line"><span class="lineno">    5</span><span class="comment"> * you may not use this file except in compliance with the License.</span></div>
+<div class="line"><span class="lineno">    6</span><span class="comment"> * You may obtain a copy of the License at</span></div>
+<div class="line"><span class="lineno">    7</span><span class="comment"> *</span></div>
+<div class="line"><span class="lineno">    8</span><span class="comment"> *     http://www.apache.org/licenses/LICENSE-2.0</span></div>
+<div class="line"><span class="lineno">    9</span><span class="comment"> *</span></div>
+<div class="line"><span class="lineno">   10</span><span class="comment"> *     Unless required by applicable law or agreed to in writing, software</span></div>
+<div class="line"><span class="lineno">   11</span><span class="comment"> *     distributed under the License is distributed on an &quot;AS IS&quot; BASIS,</span></div>
+<div class="line"><span class="lineno">   12</span><span class="comment"> *     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.</span></div>
+<div class="line"><span class="lineno">   13</span><span class="comment"> *     See the License for the specific language governing permissions and</span></div>
+<div class="line"><span class="lineno">   14</span><span class="comment"> *     limitations under the License.</span></div>
+<div class="line"><span class="lineno">   15</span><span class="comment"> */</span></div>
 <div class="line"><a id="l00016" name="l00016"></a><span class="lineno">   16</span> </div>
-<div class="line"><a id="l00017" name="l00017"></a><span class="lineno">   17</span><span class="preprocessor">#ifndef DRIVER_ST7565_H</span></div>
-<div class="line"><a id="l00018" name="l00018"></a><span class="lineno">   18</span><span class="preprocessor">#define DRIVER_ST7565_H</span></div>
+<div class="line"><a id="l00017" name="l00017"></a><span class="lineno">   17</span><span class="preprocessor">#</span><span class="preprocessor">ifndef</span> <span class="preprocessor">DRIVER_ST7565_H</span></div>
+<div class="line"><a id="l00018" name="l00018"></a><span class="lineno">   18</span><span class="preprocessor">#</span><span class="preprocessor">define</span> <span class="preprocessor">DRIVER_ST7565_H</span></div>
 <div class="line"><a id="l00019" name="l00019"></a><span class="lineno">   19</span> </div>
-<div class="line"><a id="l00020" name="l00020"></a><span class="lineno">   20</span><span class="preprocessor">#include &lt;stdbool.h&gt;</span></div>
-<div class="line"><a id="l00021" name="l00021"></a><span class="lineno">   21</span><span class="preprocessor">#include &lt;stdint.h&gt;</span></div>
+<div class="line"><a id="l00020" name="l00020"></a><span class="lineno">   20</span><span class="preprocessor">#</span><span class="preprocessor">include</span> <span class="preprocessor">&lt;</span><span class="preprocessor">stdbool</span><span class="preprocessor">.</span><span class="preprocessor">h</span><span class="preprocessor">&gt;</span></div>
+<div class="line"><a id="l00021" name="l00021"></a><span class="lineno">   21</span><span class="preprocessor">#</span><span class="preprocessor">include</span> <span class="preprocessor">&lt;</span><span class="preprocessor">stdint</span><span class="preprocessor">.</span><span class="preprocessor">h</span><span class="preprocessor">&gt;</span></div>
 <div class="line"><a id="l00022" name="l00022"></a><span class="lineno">   22</span> </div>
 <div class="line"><a id="l00023" name="l00023"></a><span class="lineno">   23</span><span class="keyword">extern</span> uint8_t <a class="code hl_variable" href="st7565_8h.html#aad7dbb1121794fad4f3c181de539cb32">gStatusLine</a>[128];</div>
 <div class="line"><a id="l00024" name="l00024"></a><span class="lineno">   24</span><span class="keyword">extern</span> uint8_t <a class="code hl_variable" href="st7565_8h.html#a1480fd34d8ed4ec179f4bd612b7a8215">gFrameBuffer</a>[7][128];</div>
@@ -132,8 +132,20 @@ $(document).ready(function(){initNavTree('st7565_8h_source.html',''); initResiza
 <div class="line"><a id="l00032" name="l00032"></a><span class="lineno">   32</span><span class="keywordtype">void</span> <a class="code hl_function" href="st7565_8h.html#ab057ac5c67ea298f6f0b3ae29a8b8250">ST7565_SelectColumnAndLine</a>(uint8_t Column, uint8_t Line);</div>
 <div class="line"><a id="l00033" name="l00033"></a><span class="lineno">   33</span><span class="keywordtype">void</span> <a class="code hl_function" href="st7565_8h.html#a06a0b48a092c6f175e8f1fc9bcc14413">ST7565_WriteByte</a>(uint8_t Value);</div>
 <div class="line"><a id="l00034" name="l00034"></a><span class="lineno">   34</span> </div>
-<div class="line"><a id="l00035" name="l00035"></a><span class="lineno">   35</span><span class="preprocessor">#endif</span></div>
-<div class="line"><a id="l00036" name="l00036"></a><span class="lineno">   36</span> </div>
+<div class="line"><a id="l00035" name="l00035"></a><span class="lineno">   35</span><span class="preprocessor">#</span><span class="preprocessor">endif</span></div>
+<div class="ttc" id="aapp_2aircopy_8c_html_a17473a15e775512e5fb4c09a49cf8f89"><div class="ttname"><a href="app_2aircopy_8c.html#a17473a15e775512e5fb4c09a49cf8f89">gAirCopyBlockNumber</a></div><div class="ttdeci">uint16_t gAirCopyBlockNumber</div><div class="ttdef"><b>Definition</b> aircopy.c:32</div></div>
+<div class="ttc" id="aapp_2aircopy_8c_html_a1b0d992d848c66b0349821099e906fe4"><div class="ttname"><a href="app_2aircopy_8c.html#a1b0d992d848c66b0349821099e906fe4">gAircopyState</a></div><div class="ttdeci">AIRCOPY_State_t gAircopyState</div><div class="ttdef"><b>Definition</b> aircopy.c:31</div></div>
+<div class="ttc" id="aapp_2aircopy_8c_html_add6d4acc872fe095076ccbc26b15293c"><div class="ttname"><a href="app_2aircopy_8c.html#add6d4acc872fe095076ccbc26b15293c">gErrorsDuringAirCopy</a></div><div class="ttdeci">uint16_t gErrorsDuringAirCopy</div><div class="ttdef"><b>Definition</b> aircopy.c:33</div></div>
+<div class="ttc" id="aapp_2aircopy_8c_html_aeadd7bb6eeff5dfdc405b14d25bf9327"><div class="ttname"><a href="app_2aircopy_8c.html#aeadd7bb6eeff5dfdc405b14d25bf9327">gAirCopyIsSendMode</a></div><div class="ttdeci">uint8_t gAirCopyIsSendMode</div><div class="ttdef"><b>Definition</b> aircopy.c:34</div></div>
+<div class="ttc" id="aapp_2aircopy_8h_html_a786a6e68b1ed3c4933211c0e754b5634a251ab040a0cfcae4405c5a357517d6c6"><div class="ttname"><a href="app_2aircopy_8h.html#a786a6e68b1ed3c4933211c0e754b5634a251ab040a0cfcae4405c5a357517d6c6">AIRCOPY_TRANSFER</a></div><div class="ttdeci">@ AIRCOPY_TRANSFER</div><div class="ttdef"><b>Definition</b> aircopy.h:24</div></div>
+<div class="ttc" id="aapp_2aircopy_8h_html_a786a6e68b1ed3c4933211c0e754b5634accc4fdf28091e21899c9806867441135"><div class="ttname"><a href="app_2aircopy_8h.html#a786a6e68b1ed3c4933211c0e754b5634accc4fdf28091e21899c9806867441135">AIRCOPY_READY</a></div><div class="ttdeci">@ AIRCOPY_READY</div><div class="ttdef"><b>Definition</b> aircopy.h:23</div></div>
+<div class="ttc" id="ahelper_8h_html_a855cecea4fea853903fa1bb346111cd1"><div class="ttname"><a href="helper_8h.html#a855cecea4fea853903fa1bb346111cd1">UI_PrintString</a></div><div class="ttdeci">void UI_PrintString(const char *pString, uint8_t Start, uint8_t End, uint8_t Line, uint8_t Width, bool bCentered)</div><div class="ttdef"><b>Definition</b> helper.c:73</div></div>
+<div class="ttc" id="ahelper_8h_html_a8b638c090cce449790475b2b5e8ac6d3"><div class="ttname"><a href="helper_8h.html#a8b638c090cce449790475b2b5e8ac6d3">UI_DisplaySmallDigits</a></div><div class="ttdeci">void UI_DisplaySmallDigits(uint8_t Size, const char *pString, uint8_t X, uint8_t Y)</div><div class="ttdef"><b>Definition</b> helper.c:125</div></div>
+<div class="ttc" id="ahelper_8h_html_ae6bf8738043e4a2ce2b40d96c8da286c"><div class="ttname"><a href="helper_8h.html#ae6bf8738043e4a2ce2b40d96c8da286c">UI_DisplayFrequency</a></div><div class="ttdeci">void UI_DisplayFrequency(const char *pDigits, uint8_t X, uint8_t Y, bool bDisplayLeadingZero, bool bFlag)</div><div class="ttdef"><b>Definition</b> helper.c:90</div></div>
+<div class="ttc" id="ainputbox_8h_html_abb3879c5fbf85b4719399ae6d06b3dff"><div class="ttname"><a href="inputbox_8h.html#abb3879c5fbf85b4719399ae6d06b3dff">gInputBox</a></div><div class="ttdeci">char gInputBox[8]</div><div class="ttdef"><b>Definition</b> inputbox.c:20</div></div>
+<div class="ttc" id="ainputbox_8h_html_acb4d74f22fae6c43bc5dd865383e987b"><div class="ttname"><a href="inputbox_8h.html#acb4d74f22fae6c43bc5dd865383e987b">gInputBoxIndex</a></div><div class="ttdeci">uint8_t gInputBoxIndex</div><div class="ttdef"><b>Definition</b> inputbox.c:21</div></div>
+<div class="ttc" id="amisc_8h_html_ab44d124a8f4b68eb1ca28ad32fcf16fa"><div class="ttname"><a href="misc_8h.html#ab44d124a8f4b68eb1ca28ad32fcf16fa">NUMBER_ToDigits</a></div><div class="ttdeci">void NUMBER_ToDigits(uint32_t Value, char *pDigits)</div><div class="ttdef"><b>Definition</b> misc.c:184</div></div>
+<div class="ttc" id="aradio_8h_html_a4859ec9fef82206d74692fcee405af76"><div class="ttname"><a href="radio_8h.html#a4859ec9fef82206d74692fcee405af76">gRxVfo</a></div><div class="ttdeci">VFO_Info_t * gRxVfo</div><div class="ttdef"><b>Definition</b> radio.c:37</div></div>
 <div class="ttc" id="ast7565_8h_html_a06a0b48a092c6f175e8f1fc9bcc14413"><div class="ttname"><a href="st7565_8h.html#a06a0b48a092c6f175e8f1fc9bcc14413">ST7565_WriteByte</a></div><div class="ttdeci">void ST7565_WriteByte(uint8_t Value)</div><div class="ttdef"><b>Definition</b> st7565.c:170</div></div>
 <div class="ttc" id="ast7565_8h_html_a1480fd34d8ed4ec179f4bd612b7a8215"><div class="ttname"><a href="st7565_8h.html#a1480fd34d8ed4ec179f4bd612b7a8215">gFrameBuffer</a></div><div class="ttdeci">uint8_t gFrameBuffer[7][128]</div><div class="ttdef"><b>Definition</b> st7565.c:27</div></div>
 <div class="ttc" id="ast7565_8h_html_a34a873ac7ed86c69ea53fc5a4699dc39"><div class="ttname"><a href="st7565_8h.html#a34a873ac7ed86c69ea53fc5a4699dc39">ST7565_BlitStatusLine</a></div><div class="ttdeci">void ST7565_BlitStatusLine(void)</div><div class="ttdef"><b>Definition</b> st7565.c:78</div></div>
@@ -144,6 +156,9 @@ $(document).ready(function(){initNavTree('st7565_8h_source.html',''); initResiza
 <div class="ttc" id="ast7565_8h_html_ab057ac5c67ea298f6f0b3ae29a8b8250"><div class="ttname"><a href="st7565_8h.html#ab057ac5c67ea298f6f0b3ae29a8b8250">ST7565_SelectColumnAndLine</a></div><div class="ttdeci">void ST7565_SelectColumnAndLine(uint8_t Column, uint8_t Line)</div><div class="ttdef"><b>Definition</b> st7565.c:155</div></div>
 <div class="ttc" id="ast7565_8h_html_ac4a99ee2623e4855c910c01d2c1004c3"><div class="ttname"><a href="st7565_8h.html#ac4a99ee2623e4855c910c01d2c1004c3">ST7565_BlitFullScreen</a></div><div class="ttdeci">void ST7565_BlitFullScreen(void)</div><div class="ttdef"><b>Definition</b> st7565.c:55</div></div>
 <div class="ttc" id="ast7565_8h_html_aff3619f565bb1ca5ddfd6c3b4213ea6c"><div class="ttname"><a href="st7565_8h.html#aff3619f565bb1ca5ddfd6c3b4213ea6c">ST7565_FillScreen</a></div><div class="ttdeci">void ST7565_FillScreen(uint8_t Value)</div><div class="ttdef"><b>Definition</b> st7565.c:96</div></div>
+<div class="ttc" id="astructFREQ__Config__t_html_a8ec6a3250d80c4a0ccf42dfa040c82e7"><div class="ttname"><a href="structFREQ__Config__t.html#a8ec6a3250d80c4a0ccf42dfa040c82e7">FREQ_Config_t::Frequency</a></div><div class="ttdeci">uint32_t Frequency</div><div class="ttdef"><b>Definition</b> radio.h:74</div></div>
+<div class="ttc" id="astructVFO__Info__t_html_a07d76fc0a89be4e140a6a19c38c2639f"><div class="ttname"><a href="structVFO__Info__t.html#a07d76fc0a89be4e140a6a19c38c2639f">VFO_Info_t::ConfigRX</a></div><div class="ttdeci">FREQ_Config_t ConfigRX</div><div class="ttdef"><b>Definition</b> radio.h:81</div></div>
+<div class="ttc" id="aui_2aircopy_8c_html_a66894c244583ddc77c33662c6ca5b1d9"><div class="ttname"><a href="ui_2aircopy_8c.html#a66894c244583ddc77c33662c6ca5b1d9">UI_DisplayAircopy</a></div><div class="ttdeci">void UI_DisplayAircopy(void)</div><div class="ttdef"><b>Definition</b> aircopy.c:27</div></div>
 </div><!-- fragment --></div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->

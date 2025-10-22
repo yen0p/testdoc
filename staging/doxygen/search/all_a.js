@@ -28,6 +28,6 @@ var searchData=
   ['key_5fup_25',['KEY_UP',['../keyboard_8h.html#a8a16013cf01a62f0820a0de1dfda7b4fa0848a442d907968b211b97bc2bd88acd',1,'keyboard.h']]],
   ['keyboard_2ec_26',['keyboard.c',['../keyboard_8c.html',1,'']]],
   ['keyboard_2eh_27',['keyboard.h',['../keyboard_8h.html',1,'']]],
-  ['keyboard_5fpoll_28',['keyboard_poll',['../keyboard_8c.html#a6efb4308f4cf286d703df9f4a94aafb3',1,'KEYBOARD_Poll(void):&#160;keyboard.c'],['../keyboard_8h.html#a6efb4308f4cf286d703df9f4a94aafb3',1,'KEYBOARD_Poll(void):&#160;keyboard.c']]],
+  ['keyboard_5fpoll_28',['keyboard_poll',['../keyboard_8h.html#a6efb4308f4cf286d703df9f4a94aafb3',1,'KEYBOARD_Poll(void):&#160;keyboard.c'],['../keyboard_8c.html#a6efb4308f4cf286d703df9f4a94aafb3',1,'KEYBOARD_Poll(void):&#160;keyboard.c']]],
   ['kill_5fcode_29',['KILL_CODE',['../structEEPROM__Config__t.html#a35041418dddad0125a70fcf7f9bd2d2d',1,'EEPROM_Config_t']]]
 ];

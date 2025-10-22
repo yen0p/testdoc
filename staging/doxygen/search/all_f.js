@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['padding_0',['padding',['../structFooter__t.html#af1ecafa9841022666f0fe4c87a1792c6',1,'Footer_t::Padding'],['../structREPLY__0514__t.html#a5113b6220cb9216749beb7b4ddb29866',1,'REPLY_0514_t::Padding'],['../structCMD__051B__t.html#ae06742bd813c22fb5d929f49966d36f2',1,'CMD_051B_t::Padding'],['../structREPLY__051B__t.html#a17685cfaf7ac8ab3887690f4150cf9db',1,'REPLY_051B_t::Padding'],['../structREPLY__052D__t.html#acab8ad2a5eecd1e2ceb220c777ee3a95',1,'REPLY_052D_t::Padding'],['../structFREQ__Config__t.html#ac8b5b4fd5238f47b69d4821e6cd23d5a',1,'FREQ_Config_t::Padding']]],
+  ['padding_0',['padding',['../structFREQ__Config__t.html#ac8b5b4fd5238f47b69d4821e6cd23d5a',1,'FREQ_Config_t::Padding'],['../structFooter__t.html#af1ecafa9841022666f0fe4c87a1792c6',1,'Footer_t::Padding'],['../structREPLY__0514__t.html#a5113b6220cb9216749beb7b4ddb29866',1,'REPLY_0514_t::Padding'],['../structCMD__051B__t.html#ae06742bd813c22fb5d929f49966d36f2',1,'CMD_051B_t::Padding'],['../structREPLY__051B__t.html#a17685cfaf7ac8ab3887690f4150cf9db',1,'REPLY_051B_t::Padding'],['../structREPLY__052D__t.html#acab8ad2a5eecd1e2ceb220c777ee3a95',1,'REPLY_052D_t::Padding']]],
   ['permit_5fremote_5fkill_1',['PERMIT_REMOTE_KILL',['../structEEPROM__Config__t.html#a2ef0ca3464ce34d7f1f0e97b47397912',1,'EEPROM_Config_t']]],
   ['pflash_2',['pFlash',['../sram-overlay_8c.html#a39d5d6b2d6c1ccb07b8a33d8a6390aa5',1,'sram-overlay.c']]],
   ['pmu_2eh_3',['pmu.h',['../pmu_8h.html',1,'']]],

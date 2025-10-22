@@ -1,15 +1,21 @@
 <map id="ST7565_DrawLine" name="ST7565_DrawLine">
-<area shape="rect" id="Node000001" title=" " alt="" coords="724,31,863,56"/>
-<area shape="rect" id="Node000002" href="$rssi_8c.html#a5075a9c216d964c1aa18a243720cb544" title=" " alt="" coords="572,5,640,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="710,35,640,25,641,20,711,30"/>
-<area shape="rect" id="Node000003" href="$ui_2battery_8c.html#aa40a1ae391715d25e95e6382c9c1cd40" title=" " alt="" coords="536,55,676,80"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="711,57,677,61,676,56,710,51"/>
-<area shape="rect" id="Node000004" href="$app_8c.html#a4a36ed5348e397aa732d9d9f88ba8f0f" title=" " alt="" coords="108,29,271,55"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="522,65,271,50,271,44,522,60"/>
-<area shape="rect" id="Node000006" href="$helper_2battery_8c.html#adb5b6dbd3242494d2147be89c89a0c98" title=" " alt="" coords="319,80,488,105"/>
-<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="523,80,488,85,488,79,522,75"/>
-<area shape="rect" id="Node000005" href="$main_8c.html#a54ddd8759bb6b8d20890ac1c684e2e3d" title=" " alt="" coords="5,55,60,80"/>
-<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="97,60,61,66,60,60,97,54"/>
-<area shape="poly" id="edge6_Node000006_Node000004" title=" " alt="" coords="335,79,243,57,244,52,336,74"/>
-<area shape="poly" id="edge7_Node000006_Node000005" title=" " alt="" coords="305,89,60,72,60,66,305,83"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="724,32,863,57"/>
+<area shape="rect" id="Node000002" href="$rssi_8c.html#a5075a9c216d964c1aa18a243720cb544" title=" " alt="" coords="572,7,640,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="710,36,640,26,641,21,711,31"/>
+<area shape="rect" id="Node000007" href="$ui_2battery_8c.html#aa40a1ae391715d25e95e6382c9c1cd40" title=" " alt="" coords="536,56,676,81"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="711,58,677,62,676,57,710,53"/>
+<area shape="rect" id="Node000003" href="$rssi_8c.html#ad42a802875b07b9ce50dbc8a6020cca8" title=" " alt="" coords="344,5,463,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="558,22,463,21,463,16,558,16"/>
+<area shape="rect" id="Node000004" href="$app_8c.html#a4a36ed5348e397aa732d9d9f88ba8f0f" title=" " alt="" coords="108,56,271,81"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="336,37,244,59,243,53,335,31"/>
+<area shape="rect" id="Node000006" href="$app_8c.html#af4b3dcec7ab5820aadf14620564c83af" title=" " alt="" coords="139,7,240,32"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="330,21,240,22,240,16,330,16"/>
+<area shape="rect" id="Node000005" href="$main_8c.html#a54ddd8759bb6b8d20890ac1c684e2e3d" title=" " alt="" coords="5,56,60,81"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="94,71,60,71,60,66,94,66"/>
+<area shape="poly" id="edge6_Node000006_Node000005" title=" " alt="" coords="132,39,109,46,61,62,59,57,107,41,131,34"/>
+<area shape="poly" id="edge8_Node000007_Node000004" title=" " alt="" coords="522,71,271,71,271,66,522,66"/>
+<area shape="rect" id="Node000008" href="$helper_2battery_8c.html#adb5b6dbd3242494d2147be89c89a0c98" title=" " alt="" coords="319,107,488,132"/>
+<area shape="poly" id="edge9_Node000007_Node000008" title=" " alt="" coords="542,87,455,109,454,104,540,82"/>
+<area shape="poly" id="edge10_Node000008_Node000004" title=" " alt="" coords="335,106,243,84,244,79,336,101"/>
+<area shape="poly" id="edge11_Node000008_Node000005" title=" " alt="" coords="305,119,209,111,107,95,60,81,61,76,109,90,209,105,305,113"/>
 </map>
