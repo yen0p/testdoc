@@ -1,0 +1,11 @@
+<map id="MENU_Key_DIGITS" name="MENU_Key_DIGITS">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,80,149,105"/>
+<area shape="rect" id="Node000002" href="$frequencies_8c.html#aa1a0bee332bdfaa56f19756948cacf4f" title=" " alt="" coords="197,5,383,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="105,77,196,39,221,32,223,37,198,45,107,82"/>
+<area shape="rect" id="Node000003" href="$inputbox_8c.html#a47d42d1b07cfc09cb41b3a5434250642" title=" " alt="" coords="217,55,363,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="149,81,203,75,204,80,150,87"/>
+<area shape="rect" id="Node000004" href="$app_2menu_8c.html#a7264068c3613927028d8e369d0ebfacf" title=" " alt="" coords="224,104,356,129"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="150,98,211,105,210,110,149,103"/>
+<area shape="rect" id="Node000005" href="$misc_8c.html#a841dbdab83a9e5cc4b093b3ea5413312" title=" " alt="" coords="235,153,345,179"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="109,103,198,138,227,147,225,152,196,143,107,108"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="ADC_Configure" name="ADC_Configure">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,124,56"/>
+<area shape="rect" id="Node000002" href="$adc_8c.html#aa256af5b8a253bdc3f6aacaa29830e64" title=" " alt="" coords="197,5,304,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="124,33,184,24,184,30,124,38"/>
+<area shape="rect" id="Node000003" href="$adc_8c.html#a08c3bf683785c6ee9e7b55598d5507f4" title=" " alt="" coords="172,55,329,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="124,48,158,53,158,58,124,54"/>
+</map>

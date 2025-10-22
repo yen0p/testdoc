@@ -1,0 +1,12 @@
+<map id="BOARD_ADC_GetBatteryInfo" name="BOARD_ADC_GetBatteryInfo">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,55,212,80"/>
+<area shape="rect" id="Node000002" href="$adc_8c.html#a93fa107f581c66025b2e39005d873f60" title=" " alt="" coords="260,5,469,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="175,52,284,31,285,36,176,57"/>
+<area shape="rect" id="Node000004" href="$adc_8c.html#a89c5d904d28cdeac54db375d76f3e6e1" title=" " alt="" coords="307,55,423,80"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="212,65,293,65,293,70,212,70"/>
+<area shape="rect" id="Node000005" href="$adc_8c.html#a8688fc7526183257a8f7c5b273317ec8" title=" " alt="" coords="321,104,409,129"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="176,77,308,103,307,108,175,83"/>
+<area shape="rect" id="Node000003" href="$adc_8c.html#a7a46ca9532b0524cae75b4502168de56" title=" " alt="" coords="517,31,703,56"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="470,26,504,30,504,35,469,31"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="423,59,503,51,504,56,423,64"/>
+</map>

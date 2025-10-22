@@ -1,0 +1,14 @@
+<map id="ST7565_FillScreen" name="ST7565_FillScreen">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,80,145,105"/>
+<area shape="rect" id="Node000002" href="$gpio_8c.html#a36f713b1085106931e0671242197ea0a" title=" " alt="" coords="253,5,353,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="101,78,143,58,193,39,239,27,240,32,194,45,145,63,103,82"/>
+<area shape="rect" id="Node000003" href="$spi_8c.html#a9ff3a2e11a45967776ef95f2225cc081" title=" " alt="" coords="217,55,389,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="146,82,203,76,204,81,146,88"/>
+<area shape="rect" id="Node000004" href="$spi_8c.html#a4429ca3d8cfc95adea8d14a24fb0c3b1" title=" " alt="" coords="460,98,673,138"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="146,94,446,109,446,114,146,99"/>
+<area shape="rect" id="Node000005" href="$st7565_8c.html#ab057ac5c67ea298f6f0b3ae29a8b8250" title=" " alt="" coords="193,156,412,181"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="110,103,194,134,243,149,242,155,192,139,108,108"/>
+<area shape="poly" id="edge6_Node000005_Node000004" title=" " alt="" coords="369,153,448,138,449,143,370,159"/>
+<area shape="rect" id="Node000006" href="$gpio_8c.html#a19c602412b79a5ffb11cee4b06f7f015" title=" " alt="" coords="510,163,623,188"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="412,169,496,171,496,176,412,174"/>
+</map>

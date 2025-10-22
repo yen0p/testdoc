@@ -1,0 +1,23 @@
+<map id="SETTINGS_SaveSettings" name="SETTINGS_SaveSettings">
+<area shape="rect" id="Node000001" title=" " alt="" coords="917,31,1096,56"/>
+<area shape="rect" id="Node000002" href="$app_8c.html#ae8efcdac7261e7e206045ce22bcd86d9" title=" " alt="" coords="722,5,850,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="904,34,850,28,851,23,904,29"/>
+<area shape="rect" id="Node000006" href="$dtmf_8c.html#aa797004f8ed15d85cf781434b1865712" title=" " alt="" coords="703,55,869,80"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="904,57,870,61,869,56,904,52"/>
+<area shape="rect" id="Node000003" href="$app_8c.html#a15e2e7acbfd925c30fe6299a7e851096" title=" " alt="" coords="495,5,620,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="708,21,620,21,620,15,708,15"/>
+<area shape="rect" id="Node000004" href="$app_8c.html#a4ce7a9d02eb964f680d9d44fd489fa8f" title=" " alt="" coords="257,53,412,79"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="485,36,395,56,394,51,484,31"/>
+<area shape="rect" id="Node000005" href="$main_8c.html#a54ddd8759bb6b8d20890ac1c684e2e3d" title=" " alt="" coords="5,79,60,104"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="244,76,60,92,60,86,243,71"/>
+<area shape="rect" id="Node000007" href="$app_8c.html#ae4f6e4c0616082d9b0dbddf7a8b84052" title=" " alt="" coords="460,55,655,80"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="689,70,655,70,655,65,689,65"/>
+<area shape="rect" id="Node000008" href="$app_8c.html#ad6b955717662e42390bcb9feb0f30102" title=" " alt="" coords="477,104,637,129"/>
+<area shape="poly" id="edge8_Node000006_Node000008" title=" " alt="" coords="714,86,618,107,616,101,713,80"/>
+<area shape="poly" id="edge7_Node000007_Node000004" title=" " alt="" coords="446,69,413,69,413,64,446,64"/>
+<area shape="rect" id="Node000009" href="$app_8c.html#a72a795aefc4a873c84373844b0b296da" title=" " alt="" coords="257,104,412,129"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="464,119,412,119,412,114,464,114"/>
+<area shape="rect" id="Node000010" href="$app_8c.html#af4b3dcec7ab5820aadf14620564c83af" title=" " alt="" coords="108,104,209,129"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="244,119,210,119,210,114,244,114"/>
+<area shape="poly" id="edge11_Node000010_Node000005" title=" " alt="" coords="94,106,60,99,61,94,95,101"/>
+</map>

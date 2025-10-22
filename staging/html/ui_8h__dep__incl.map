@@ -1,0 +1,37 @@
+<map id="ui/ui.h" name="ui/ui.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="990,5,1053,31"/>
+<area shape="rect" id="Node000002" href="$action_8c.html" title=" " alt="" coords="5,79,107,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="976,23,621,39,372,56,119,81,107,83,107,78,118,76,372,50,621,33,976,18"/>
+<area shape="rect" id="Node000003" href="$app_2aircopy_8c.html" title=" " alt="" coords="131,79,237,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="977,24,672,42,463,59,250,81,238,83,237,78,249,76,462,53,671,36,976,19"/>
+<area shape="rect" id="Node000004" href="$app_8c.html" title=" " alt="" coords="261,79,347,104"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="977,24,714,42,538,59,359,81,347,83,346,78,358,76,537,53,714,37,976,19"/>
+<area shape="rect" id="Node000005" href="$dtmf_8c.html" title=" " alt="" coords="371,79,461,104"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="977,26,760,46,474,81,462,83,461,78,473,76,759,40,976,20"/>
+<area shape="rect" id="Node000006" href="$fm_8c.html" title=" " alt="" coords="486,79,565,104"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="977,27,802,48,578,81,566,84,565,78,577,76,801,42,976,21"/>
+<area shape="rect" id="Node000007" href="$generic_8c.html" title=" " alt="" coords="589,79,699,104"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="977,30,700,82,699,77,976,25"/>
+<area shape="rect" id="Node000008" href="$app_2main_8c.html" title=" " alt="" coords="723,79,818,104"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="977,35,812,81,811,76,976,29"/>
+<area shape="rect" id="Node000009" href="$app_2menu_8c.html" title=" " alt="" coords="843,79,941,104"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="990,40,914,81,912,76,987,35"/>
+<area shape="rect" id="Node000010" href="$app_2scanner_8c.html" title=" " alt="" coords="966,79,1077,104"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="1024,44,1024,79,1019,79,1019,44"/>
+<area shape="rect" id="Node000011" href="$audio_8c.html" title=" " alt="" coords="1101,79,1171,104"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="1053,35,1119,76,1116,81,1050,40"/>
+<area shape="rect" id="Node000012" href="$functions_8c.html" title=" " alt="" coords="1195,79,1288,104"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="1067,31,1207,76,1205,81,1065,36"/>
+<area shape="rect" id="Node000013" href="$helper_2battery_8c.html" title=" " alt="" coords="1312,79,1435,104"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="1067,26,1317,76,1316,81,1066,31"/>
+<area shape="rect" id="Node000014" href="$boot_8c.html" title=" " alt="" coords="1459,79,1565,104"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="1067,22,1447,76,1459,78,1458,83,1446,81,1066,28"/>
+<area shape="rect" id="Node000015" href="$fmradio_8c.html" title=" " alt="" coords="1590,79,1690,104"/>
+<area shape="poly" id="edge14_Node000001_Node000015" title=" " alt="" coords="1067,20,1287,41,1578,76,1590,78,1589,83,1577,81,1286,46,1066,26"/>
+<area shape="rect" id="Node000016" href="$ui_2menu_8c.html" title=" " alt="" coords="1714,79,1801,104"/>
+<area shape="poly" id="edge15_Node000001_Node000016" title=" " alt="" coords="1067,19,1336,36,1518,53,1703,76,1714,78,1713,83,1702,81,1518,58,1336,42,1066,24"/>
+<area shape="rect" id="Node000017" href="$rssi_8c.html" title=" " alt="" coords="1825,79,1897,104"/>
+<area shape="poly" id="edge16_Node000001_Node000017" title=" " alt="" coords="1067,18,1195,22,1380,32,1595,49,1814,76,1826,78,1825,83,1813,81,1595,54,1380,37,1195,27,1066,23"/>
+<area shape="rect" id="Node000018" href="$ui_8c.html" title=" " alt="" coords="1921,79,1983,104"/>
+<area shape="poly" id="edge17_Node000001_Node000018" title=" " alt="" coords="1067,17,1209,19,1418,27,1662,45,1787,58,1910,76,1921,78,1920,84,1909,81,1786,64,1661,50,1417,32,1209,24,1067,22"/>
+</map>

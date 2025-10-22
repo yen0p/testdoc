@@ -1,0 +1,33 @@
+<map id="BK1080_Init" name="BK1080_Init">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,153,105,179"/>
+<area shape="rect" id="Node000002" href="$bk1080_8c.html#a86abc15773a1ec59b6930e2bf5ebdaf1" title=" " alt="" coords="153,128,321,153"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="105,157,140,152,140,157,106,162"/>
+<area shape="rect" id="Node000004" href="$gpio_8c.html#a19c602412b79a5ffb11cee4b06f7f015" title=" " alt="" coords="702,79,815,104"/>
+<area shape="poly" id="edge17_Node000001_Node000004" title=" " alt="" coords="73,151,122,120,193,80,278,40,323,24,369,12,407,4,438,3,509,12,601,36,709,72,707,77,599,41,507,17,438,8,408,10,370,17,325,29,280,45,196,85,125,125,76,156"/>
+<area shape="rect" id="Node000005" href="$gpio_8c.html#a36f713b1085106931e0671242197ea0a" title=" " alt="" coords="709,177,809,203"/>
+<area shape="poly" id="edge18_Node000001_Node000005" title=" " alt="" coords="76,177,111,199,154,220,250,253,327,269,407,271,508,265,575,258,641,242,683,226,722,207,724,212,685,231,642,247,576,264,508,270,407,277,327,274,248,258,152,225,109,203,73,181"/>
+<area shape="rect" id="Node000011" href="$system_8c.html#a065b3504cb663f1a77c129d061ed16ee" title=" " alt="" coords="369,229,508,255"/>
+<area shape="poly" id="edge19_Node000001_Node000011" title=" " alt="" coords="106,173,361,224,360,229,105,179"/>
+<area shape="rect" id="Node000003" href="$i2c_8c.html#a32e58d55017fc54118e3b7a5eda44d8c" title=" " alt="" coords="558,128,639,153"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="321,138,544,138,544,143,321,143"/>
+<area shape="rect" id="Node000007" href="$i2c_8c.html#afce134e0a1b6a8bc503c97b37639c9e6" title=" " alt="" coords="559,177,638,203"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="322,150,546,180,545,186,321,155"/>
+<area shape="rect" id="Node000008" href="$i2c_8c.html#a149bcd572a8276d1a206a2a6c59bc6f5" title=" " alt="" coords="556,77,641,103"/>
+<area shape="poly" id="edge10_Node000002_Node000008" title=" " alt="" coords="321,126,369,120,542,95,542,101,370,125,322,132"/>
+<area shape="rect" id="Node000010" href="$i2c_8c.html#a8c5ade271695e13df731029fb4b54798" title=" " alt="" coords="377,27,501,52"/>
+<area shape="poly" id="edge15_Node000002_Node000010" title=" " alt="" coords="261,126,368,69,396,56,398,60,371,74,263,130"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="639,126,702,106,704,111,640,131"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="640,151,704,171,702,176,639,156"/>
+<area shape="rect" id="Node000006" href="$systick_8c.html#a2589f9c880426743907b143f46a08869" title=" " alt="" coords="689,128,828,153"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="640,138,675,138,675,143,640,143"/>
+<area shape="poly" id="edge7_Node000007_Node000004" title=" " alt="" coords="623,175,640,164,663,139,673,127,688,115,700,107,703,112,691,119,676,131,667,142,643,168,626,179"/>
+<area shape="poly" id="edge8_Node000007_Node000005" title=" " alt="" coords="638,187,695,187,695,193,638,193"/>
+<area shape="poly" id="edge9_Node000007_Node000006" title=" " alt="" coords="637,176,703,155,705,160,639,181"/>
+<area shape="poly" id="edge12_Node000008_Node000004" title=" " alt="" coords="641,88,688,88,688,94,641,93"/>
+<area shape="poly" id="edge13_Node000008_Node000005" title=" " alt="" coords="623,101,643,115,667,141,676,152,691,164,701,170,698,174,688,168,672,156,663,144,640,119,620,105"/>
+<area shape="poly" id="edge14_Node000008_Node000006" title=" " alt="" coords="641,100,706,121,704,126,639,105"/>
+<area shape="rect" id="Node000009" href="$gpio_8c.html#a5e045cee95aa006166cc151cfc55995c" title=" " alt="" coords="699,29,818,55"/>
+<area shape="poly" id="edge11_Node000008_Node000009" title=" " alt="" coords="641,75,702,56,704,61,642,80"/>
+<area shape="poly" id="edge16_Node000010_Node000008" title=" " alt="" coords="481,50,546,71,544,76,479,55"/>
+<area shape="poly" id="edge20_Node000011_Node000006" title=" " alt="" coords="508,241,574,234,608,226,640,213,655,202,664,190,673,177,688,164,700,157,703,161,691,168,677,181,668,193,659,206,643,218,610,231,575,240,508,247"/>
+</map>

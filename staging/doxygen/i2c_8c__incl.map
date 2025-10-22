@@ -1,0 +1,21 @@
+<map id="driver/i2c.c" name="driver/i2c.c">
+<area shape="rect" id="Node000001" title=" " alt="" coords="394,5,489,31"/>
+<area shape="rect" id="Node000002" href="$bsp_2dp32g030_2gpio_8h.html" title=" " alt="" coords="5,79,163,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="394,31,155,79,154,73,393,26"/>
+<area shape="rect" id="Node000004" href="$portcon_8h.html" title=" " alt="" coords="187,79,365,104"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="416,33,317,76,314,71,414,28"/>
+<area shape="rect" id="Node000005" href="$driver_2gpio_8h.html" title=" " alt="" coords="389,79,493,104"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="444,31,444,65,439,65,439,31"/>
+<area shape="rect" id="Node000006" href="$i2c_8h.html" title=" " alt="" coords="665,79,759,104"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="485,28,656,73,654,78,484,33"/>
+<area shape="rect" id="Node000008" href="$systick_8h.html" title=" " alt="" coords="517,79,640,104"/>
+<area shape="poly" id="edge10_Node000001_Node000008" title=" " alt="" coords="465,28,545,70,543,75,462,33"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="406,152,477,177"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="142,101,393,151,392,156,141,107"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="304,102,403,144,401,149,302,106"/>
+<area shape="poly" id="edge6_Node000005_Node000003" title=" " alt="" coords="444,104,444,138,439,138,439,104"/>
+<area shape="poly" id="edge9_Node000006_Node000003" title=" " alt="" coords="669,107,491,153,490,148,668,101"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="671,152,753,177"/>
+<area shape="poly" id="edge8_Node000006_Node000007" title=" " alt="" coords="715,104,715,138,709,138,709,104"/>
+<area shape="poly" id="edge11_Node000008_Node000003" title=" " alt="" coords="558,106,477,148,475,143,555,102"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="BK4819_WriteU8" name="BK4819_WriteU8">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,55,137,80"/>
+<area shape="rect" id="Node000002" href="$gpio_8c.html#a19c602412b79a5ffb11cee4b06f7f015" title=" " alt="" coords="198,5,311,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="118,52,193,32,194,37,120,57"/>
+<area shape="rect" id="Node000003" href="$gpio_8c.html#a36f713b1085106931e0671242197ea0a" title=" " alt="" coords="205,55,305,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="137,65,191,65,191,70,137,70"/>
+<area shape="rect" id="Node000004" href="$systick_8c.html#a2589f9c880426743907b143f46a08869" title=" " alt="" coords="185,104,324,129"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="120,77,194,98,193,103,118,83"/>
+</map>

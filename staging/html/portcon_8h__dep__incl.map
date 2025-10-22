@@ -1,0 +1,9 @@
+<map id="bsp/dp32g030/portcon.h" name="bsp/dp32g030/portcon.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="73,5,251,31"/>
+<area shape="rect" id="Node000002" href="$board_8c.html" title=" " alt="" coords="5,79,76,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="132,40,62,81,59,76,129,35"/>
+<area shape="rect" id="Node000003" href="$bk4819_8c.html" title=" " alt="" coords="101,79,223,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="165,44,165,79,159,79,159,44"/>
+<area shape="rect" id="Node000004" href="$i2c_8c.html" title=" " alt="" coords="248,79,343,104"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="197,35,275,76,272,81,194,39"/>
+</map>

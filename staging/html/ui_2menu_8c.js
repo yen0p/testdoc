@@ -1,0 +1,25 @@
+var ui_2menu_8c =
+[
+    [ "UI_DisplayMenu", "ui_2menu_8c.html#a82589ef7581704216671272650a1c2a9", null ],
+    [ "gIsInSubMenu", "ui_2menu_8c.html#ae07ba9b72a42da07acf2f098767cea61", null ],
+    [ "gMenuCursor", "ui_2menu_8c.html#a34bd17eb625fd8fbd9b716dff50b9e23", null ],
+    [ "gMenuScrollDirection", "ui_2menu_8c.html#a83b71847cd27657d92a270bd4d1fca41", null ],
+    [ "gSubMenu_CHAN", "ui_2menu_8c.html#ae0ff34e6a77e55e93d2c2ff7a18fc788", null ],
+    [ "gSubMenu_D_RSP", "ui_2menu_8c.html#a5de4eb592a09ebf0f9037c37367b3eda", null ],
+    [ "gSubMenu_F_LOCK", "ui_2menu_8c.html#a876dc17565e69e4c91c1fc4d3445a689", null ],
+    [ "gSubMenu_MDF", "ui_2menu_8c.html#a0733dff4d92eada61c888515f0a564ea", null ],
+    [ "gSubMenu_OFF_ON", "ui_2menu_8c.html#a26ae12eb14d06b794b009f943105c122", null ],
+    [ "gSubMenu_PONMSG", "ui_2menu_8c.html#a010d60aa3abd64d28b4cd6dd4ef0d143", null ],
+    [ "gSubMenu_PTT_ID", "ui_2menu_8c.html#a21ded74f88352082a1806f34f3e002d2", null ],
+    [ "gSubMenu_RESET", "ui_2menu_8c.html#aab45ba91a202bf2d86ac05082fad539c", null ],
+    [ "gSubMenu_ROGER", "ui_2menu_8c.html#ae6f7f1d6fbc446ab768d681f459421e7", null ],
+    [ "gSubMenu_SAVE", "ui_2menu_8c.html#a12f2062cd503f35719ee3cc65fe5e46b", null ],
+    [ "gSubMenu_SC_REV", "ui_2menu_8c.html#a3e5291642a4837d9cab27bd270129583", null ],
+    [ "gSubMenu_SFT_D", "ui_2menu_8c.html#a0614905951d4a596947b9646af23b30d", null ],
+    [ "gSubMenu_Step", "ui_2menu_8c.html#a3b1a6caa1ecb5e4617d5fc558abc85bf", null ],
+    [ "gSubMenu_TXP", "ui_2menu_8c.html#aa03fb9650a2d8e71a254583169f9d9f2", null ],
+    [ "gSubMenu_VOICE", "ui_2menu_8c.html#a761e738c43d911dea5a086ac8649857b", null ],
+    [ "gSubMenu_W_N", "ui_2menu_8c.html#a8eb74a47a949b69944ce9d5b12f8a408", null ],
+    [ "gSubMenuSelection", "ui_2menu_8c.html#a1a0ec587ed0fec09ac03b323138e6d25", null ],
+    [ "MenuList", "ui_2menu_8c.html#a1f9b9e19da513f107b9701f7c31e310e", null ]
+];

@@ -1,0 +1,11 @@
+<map id="ST7565_HardwareReset" name="ST7565_HardwareReset">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,55,183,80"/>
+<area shape="rect" id="Node000002" href="$gpio_8c.html#a19c602412b79a5ffb11cee4b06f7f015" title=" " alt="" coords="243,5,357,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="147,52,232,31,234,37,148,57"/>
+<area shape="rect" id="Node000003" href="$gpio_8c.html#a36f713b1085106931e0671242197ea0a" title=" " alt="" coords="250,55,350,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="183,65,236,65,236,70,183,70"/>
+<area shape="rect" id="Node000004" href="$system_8c.html#a065b3504cb663f1a77c129d061ed16ee" title=" " alt="" coords="231,104,369,129"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="148,77,234,98,232,103,147,83"/>
+<area shape="rect" id="Node000005" href="$systick_8c.html#a2589f9c880426743907b143f46a08869" title=" " alt="" coords="417,104,556,129"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="370,114,403,114,403,119,370,119"/>
+</map>

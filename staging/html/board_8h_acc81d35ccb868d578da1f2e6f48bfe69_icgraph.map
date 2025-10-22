@@ -1,0 +1,19 @@
+<map id="BOARD_EEPROM_LoadCalibration" name="BOARD_EEPROM_LoadCalibration">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1253,18,1493,43"/>
+<area shape="rect" id="Node000002" href="$main_8c.html#a54ddd8759bb6b8d20890ac1c684e2e3d" title=" " alt="" coords="5,18,60,43"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1239,22,1091,12,930,8,372,8,282,10,194,16,61,30,60,25,193,11,282,5,372,3,930,3,1091,7,1239,16"/>
+<area shape="rect" id="Node000003" href="$app_2menu_8c.html#a735131d8203657d85d0c06a75e605a76" title=" " alt="" coords="1047,43,1205,69"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="1240,47,1206,51,1205,45,1240,42"/>
+<area shape="rect" id="Node000004" href="$app_8c.html#ae8efcdac7261e7e206045ce22bcd86d9" title=" " alt="" coords="484,43,612,69"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="1033,59,612,59,612,53,1033,53"/>
+<area shape="rect" id="Node000007" href="$app_2menu_8c.html#ae3c4b78950f5f170256f629038f3c809" title=" " alt="" coords="859,94,999,119"/>
+<area shape="poly" id="edge7_Node000003_Node000007" title=" " alt="" coords="1063,75,979,97,978,91,1062,70"/>
+<area shape="rect" id="Node000005" href="$app_8c.html#a15e2e7acbfd925c30fe6299a7e851096" title=" " alt="" coords="311,43,436,69"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="470,59,436,59,436,53,470,53"/>
+<area shape="rect" id="Node000006" href="$app_8c.html#a4ce7a9d02eb964f680d9d44fd489fa8f" title=" " alt="" coords="108,43,263,69"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="297,59,263,59,263,53,297,53"/>
+<area shape="poly" id="edge6_Node000006_Node000002" title=" " alt="" coords="95,44,60,38,61,32,96,38"/>
+<area shape="rect" id="Node000008" href="$app_2menu_8c.html#ad7bba1731d27d2fd5dfd7c375c1ab790" title=" " alt="" coords="660,94,811,119"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="845,109,811,109,811,104,845,104"/>
+<area shape="poly" id="edge9_Node000008_Node000004" title=" " alt="" coords="674,93,595,71,597,66,675,88"/>
+</map>

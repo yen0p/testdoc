@@ -1,0 +1,9 @@
+<map id="driver/i2c.h" name="driver/i2c.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="167,5,262,31"/>
+<area shape="rect" id="Node000002" href="$bk1080_8c.html" title=" " alt="" coords="5,79,128,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="180,39,92,81,90,76,178,34"/>
+<area shape="rect" id="Node000003" href="$eeprom_8c.html" title=" " alt="" coords="152,79,277,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="217,44,217,79,212,79,212,44"/>
+<area shape="rect" id="Node000004" href="$i2c_8c.html" title=" " alt="" coords="302,79,397,104"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="250,35,329,76,326,81,247,39"/>
+</map>
