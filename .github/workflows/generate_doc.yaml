@@ -38,7 +38,7 @@ jobs:
 
       - name: Build MkDocs site
         run: |
-          mkdocs -v build -f mkdocs/mkdocs.yml -d site 
+          mkdocs -v build -f mkdocs/mkdocs.yml -d ../site 
           echo $?
 
       - name: Debug
