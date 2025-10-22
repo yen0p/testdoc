@@ -1,3 +1,4 @@
+PROJECT_NAME           = "Quansheng UV-K5 Firmware"
 OUTPUT_DIRECTORY       = docs
 GENERATE_LATEX         = NO
 GENERATE_RTF           = NO
