@@ -35,7 +35,7 @@ jobs:
 
       - name: Build MkDocs site
         run: |
-          mkdocs build -d site -f mkdocs/mkdocs.yml
+          mkdocs build -f mkdocs/mkdocs.yml -d site 
 
       - name: Merge Doxygen into MkDocs output
         run: |
