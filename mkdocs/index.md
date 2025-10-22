@@ -1,7 +1,12 @@
-# Quansheng UV-K5 – Documentation Staging
+# Quansheng UV-K5 – Documentation
 
-Bienvenue ! Ce site regroupe :
-- des **guides** pour contribuer au firmware,
-- la **référence Doxygen** du code.
+Welcome ! This site contains :
+- High level documentation to explain how the firmware works
+- Low level documentation detailling variables and functions 
+- Some "How to" to ease firmware development ex :
+    - How to manage the menu (create item, create sub menu etc.)
+    - How to store information in the eeprom
+    - How to modify VFO information (frequency, mode, tx power, squelch)
+    - ...
 
-👉 Référence : [Doxygen](doxygen/index.html)
+👉 Reference : [Doxygen](doxygen/index.html)
