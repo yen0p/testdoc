@@ -17,9 +17,6 @@ theme:
 nav:
   - Home: index.md
   - How to: howto_home.md
-  - Low level code documentation:
-      - "Documentation status":  status.md
-      - "→ Doxygen": ../doxygen/index.html 
 
 markdown_extensions:
   - admonition
