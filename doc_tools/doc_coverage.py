@@ -305,7 +305,7 @@ def render_markdown(results: List[Dict], out_path: Path, lookback: int, roots: L
         lines.append(f"- **{label}**: {sums[k]['doc']}/{sums[k]['total']} ({tp:.2f}%)")
     lines.append("")
 
-    lines.append("### By category\n")
+    lines.append("### By folder\n")
     # Grouped tables by subfolder (no compact view)
     groups = group_by_subfolder(results, roots)
     for grp in sorted(groups.keys()):
