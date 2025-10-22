@@ -45,6 +45,9 @@ enum DTMF_ReplyState_t {
 
 typedef enum DTMF_ReplyState_t DTMF_ReplyState_t;
 
+/**
+ * * @brief This enum is used to do this and that
+ */
 enum DTMF_CallMode_t {
 	DTMF_CALL_MODE_NOT_GROUP = 0U,
 	DTMF_CALL_MODE_GROUP     = 1U,

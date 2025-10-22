@@ -376,6 +376,15 @@ void APP_StartListening(FUNCTION_Type_t Function)
 	}
 }
 
+/**
+ * @brief APP_SetFrequencyByStep function.
+ * @param pInfo pInfo: pointer. e.g., VFO_Info_t *pInfo; e.g., gRxVfo
+ * @param Step direction: integer value. e.g., int8_t direction; e.g., gScanStateDir
+ * @return Return value.
+ * Hypotheses:
+ * - Behavior inferred from naming and call sites; check side effects.
+ * Degree of certainty : 57%
+ */
 void APP_SetFrequencyByStep(VFO_Info_t *pInfo, int8_t Step)
 {
 	uint32_t Frequency;
@@ -390,6 +399,9 @@ void APP_SetFrequencyByStep(VFO_Info_t *pInfo, int8_t Step)
 	}
 }
 
+/**
+ * @brief FREQ_NextChannel function that will be used to do this or that
+ */
 static void FREQ_NextChannel(void)
 {
 	APP_SetFrequencyByStep(gRxVfo, gScanState);
