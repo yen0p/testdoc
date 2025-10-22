@@ -1,6 +1,6 @@
 <map id="MAIN_Key_UP_DOWN" name="MAIN_Key_UP_DOWN">
 <area shape="rect" id="Node000001" title=" " alt="" coords="5,257,168,283"/>
-<area shape="rect" id="Node000002" href="$app_8c.html#afd86690a9def9eb65a4279943d81a071" title=" " alt="" coords="681,333,869,359"/>
+<area shape="rect" id="Node000002" href="$app_8c.html#afd86690a9def9eb65a4279943d81a071" title="APP_SetFrequencyByStep function." alt="" coords="681,333,869,359"/>
 <area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="146,280,216,293,459,321,668,337,668,342,458,326,216,298,145,285"/>
 <area shape="rect" id="Node000004" href="$audio_8c.html#a6f4103e50afdeb867e06fed6db31e362" title=" " alt="" coords="247,208,406,233"/>
 <area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="149,255,250,234,251,239,150,260"/>
@@ -12,7 +12,7 @@
 <area shape="poly" id="edge106_Node000001_Node000109" title=" " alt="" coords="104,281,152,321,184,343,217,362,256,377,254,382,215,367,181,347,149,325,100,285"/>
 <area shape="rect" id="Node000003" href="$frequencies_8c.html#aa1a0bee332bdfaa56f19756948cacf4f" title=" " alt="" coords="932,232,1117,257"/>
 <area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="807,331,979,260,981,265,809,336"/>
-<area shape="rect" id="Node000006" href="$app_8c.html#a18f5559e832ccb17b9bf3e7406600ee7" title=" " alt="" coords="485,283,633,308"/>
+<area shape="rect" id="Node000006" href="$app_8c.html#a18f5559e832ccb17b9bf3e7406600ee7" title="FREQ_NextChannel function that will be used to do this or that." alt="" coords="485,283,633,308"/>
 <area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="389,274,472,283,472,288,388,279"/>
 <area shape="rect" id="Node000104" href="$app_8c.html#a9c6e32df84dffc6fe6645eef1c9de0c4" title=" " alt="" coords="492,175,627,200"/>
 <area shape="poly" id="edge91_Node000005_Node000104" title=" " alt="" coords="388,257,436,244,460,232,484,218,516,203,518,208,487,223,463,237,438,248,389,262"/>

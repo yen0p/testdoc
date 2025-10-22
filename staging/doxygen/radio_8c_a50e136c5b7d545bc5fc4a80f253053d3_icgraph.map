@@ -1,6 +1,6 @@
 <map id="RADIO_ApplyOffset" name="RADIO_ApplyOffset">
 <area shape="rect" id="Node000001" title=" " alt="" coords="1961,285,2108,311"/>
-<area shape="rect" id="Node000002" href="$app_8c.html#a18f5559e832ccb17b9bf3e7406600ee7" title=" " alt="" coords="1523,185,1671,211"/>
+<area shape="rect" id="Node000002" href="$app_8c.html#a18f5559e832ccb17b9bf3e7406600ee7" title="FREQ_NextChannel function that will be used to do this or that." alt="" coords="1523,185,1671,211"/>
 <area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1964,285,1653,213,1654,208,1965,280"/>
 <area shape="rect" id="Node000016" href="$radio_8c.html#afba89b2f7eaa2434961e5027b194f804" title=" " alt="" coords="1727,475,1913,500"/>
 <area shape="poly" id="edge19_Node000001_Node000016" title=" " alt="" coords="2011,322,1838,476,1834,472,2007,318"/>

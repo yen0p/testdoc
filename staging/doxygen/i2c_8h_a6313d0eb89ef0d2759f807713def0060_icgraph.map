@@ -120,7 +120,7 @@
 <area shape="poly" id="edge69_Node000070_Node000048" title=" " alt="" coords="2409,810,2327,782,1500,493,1502,488,2329,777,2411,805"/>
 <area shape="rect" id="Node000051" href="$boot_8c.html#a2902d985d83dc1d26d17dbcc953a21a2" title=" " alt="" coords="1871,921,2023,947"/>
 <area shape="poly" id="edge71_Node000070_Node000051" title=" " alt="" coords="2434,861,2384,885,2329,904,2248,921,2166,931,2023,938,2023,932,2166,926,2247,916,2327,899,2382,880,2432,857"/>
-<area shape="rect" id="Node000053" href="$app_8c.html#a18f5559e832ccb17b9bf3e7406600ee7" title=" " alt="" coords="1642,1073,1790,1099"/>
+<area shape="rect" id="Node000053" href="$app_8c.html#a18f5559e832ccb17b9bf3e7406600ee7" title="FREQ_NextChannel function that will be used to do this or that." alt="" coords="1642,1073,1790,1099"/>
 <area shape="poly" id="edge73_Node000070_Node000053" title=" " alt="" coords="2448,864,2394,904,2329,942,2258,971,2184,996,2035,1036,1899,1064,1791,1080,1790,1075,1898,1058,2034,1031,2182,991,2256,966,2327,937,2391,900,2444,860"/>
 <area shape="rect" id="Node000071" href="$radio_8c.html#a0f52df82c776a9ebbd28627746cd998d" title=" " alt="" coords="2149,820,2267,845"/>
 <area shape="poly" id="edge77_Node000070_Node000071" title=" " alt="" coords="2362,835,2267,835,2267,830,2362,830"/>

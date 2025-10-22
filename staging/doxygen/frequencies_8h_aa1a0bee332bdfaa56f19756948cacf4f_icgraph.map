@@ -2,7 +2,7 @@
 <area shape="rect" id="Node000001" title=" " alt="" coords="1992,252,2177,278"/>
 <area shape="rect" id="Node000002" href="$app_2aircopy_8c.html#a02954623a71721d582ad5af1d06e9bb0" title=" " alt="" coords="1769,62,1931,87"/>
 <area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="2066,243,2015,178,1981,142,1943,111,1898,90,1900,85,1945,107,1984,139,2019,175,2070,240"/>
-<area shape="rect" id="Node000008" href="$app_8c.html#afd86690a9def9eb65a4279943d81a071" title=" " alt="" coords="1756,660,1944,686"/>
+<area shape="rect" id="Node000008" href="$app_8c.html#afd86690a9def9eb65a4279943d81a071" title="APP_SetFrequencyByStep function." alt="" coords="1756,660,1944,686"/>
 <area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="2071,291,1861,662,1856,659,2067,289"/>
 <area shape="rect" id="Node000019" href="$app_2main_8c.html#ac56218bd67d08740f083913835325da7" title=" " alt="" coords="1557,307,1696,332"/>
 <area shape="poly" id="edge24_Node000001_Node000019" title=" " alt="" coords="1978,280,1696,314,1696,309,1978,275"/>
@@ -24,7 +24,7 @@
 <area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="330,500,218,548,216,543,328,495"/>
 <area shape="rect" id="Node000007" href="$main_8c.html#a54ddd8759bb6b8d20890ac1c684e2e3d" title=" " alt="" coords="5,712,60,738"/>
 <area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="165,583,48,714,44,710,161,580"/>
-<area shape="rect" id="Node000009" href="$app_8c.html#a18f5559e832ccb17b9bf3e7406600ee7" title=" " alt="" coords="1553,660,1701,686"/>
+<area shape="rect" id="Node000009" href="$app_8c.html#a18f5559e832ccb17b9bf3e7406600ee7" title="FREQ_NextChannel function that will be used to do this or that." alt="" coords="1553,660,1701,686"/>
 <area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="1742,676,1701,676,1701,670,1742,670"/>
 <area shape="rect" id="Node000018" href="$app_2main_8c.html#ae40ff37e65f9e3dfc72223a584f1bdc7" title=" " alt="" coords="1119,611,1281,636"/>
 <area shape="poly" id="edge23_Node000008_Node000018" title=" " alt="" coords="1778,691,1708,701,1627,706,1545,701,1461,689,1378,672,1245,639,1246,634,1379,667,1462,684,1546,696,1627,701,1708,696,1778,686"/>

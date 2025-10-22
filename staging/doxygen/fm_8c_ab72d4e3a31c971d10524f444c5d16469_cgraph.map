@@ -85,12 +85,12 @@
 <area shape="rect" id="Node000024" href="$i2c_8c.html#a6313d0eb89ef0d2759f807713def0060" title=" " alt="" coords="1664,650,1787,675"/>
 <area shape="poly" id="edge37_Node000023_Node000024" title=" " alt="" coords="1579,660,1650,660,1650,665,1579,665"/>
 <area shape="poly" id="edge38_Node000024_Node000009" title=" " alt="" coords="1772,647,1808,634,1855,607,1896,580,1899,584,1858,612,1810,638,1774,652"/>
-<area shape="rect" id="Node000027" href="$app_8c.html#a18f5559e832ccb17b9bf3e7406600ee7" title=" " alt="" coords="921,801,1069,826"/>
+<area shape="rect" id="Node000027" href="$app_8c.html#a18f5559e832ccb17b9bf3e7406600ee7" title="FREQ_NextChannel function that will be used to do this or that." alt="" coords="921,801,1069,826"/>
 <area shape="poly" id="edge43_Node000026_Node000027" title=" " alt="" coords="550,831,907,815,908,820,550,836"/>
 <area shape="rect" id="Node000110" href="$app_8c.html#a9c6e32df84dffc6fe6645eef1c9de0c4" title=" " alt="" coords="684,882,819,907"/>
 <area shape="poly" id="edge57_Node000026_Node000110" title=" " alt="" coords="546,846,681,876,680,882,545,851"/>
 <area shape="poly" id="edge68_Node000026_Node000114" title=" " alt="" coords="512,846,574,881,653,916,680,925,678,930,651,921,572,885,509,851"/>
-<area shape="rect" id="Node000028" href="$app_8c.html#afd86690a9def9eb65a4279943d81a071" title=" " alt="" coords="1151,751,1339,777"/>
+<area shape="rect" id="Node000028" href="$app_8c.html#afd86690a9def9eb65a4279943d81a071" title="APP_SetFrequencyByStep function." alt="" coords="1151,751,1339,777"/>
 <area shape="poly" id="edge44_Node000027_Node000028" title=" " alt="" coords="1060,798,1166,777,1167,782,1061,803"/>
 <area shape="rect" id="Node000030" href="$radio_8c.html#a50e136c5b7d545bc5fc4a80f253053d3" title=" " alt="" coords="1171,801,1318,826"/>
 <area shape="poly" id="edge46_Node000027_Node000030" title=" " alt="" coords="1069,811,1158,811,1158,816,1069,816"/>

@@ -1,6 +1,6 @@
 <map id="APP_SetFrequencyByStep" name="APP_SetFrequencyByStep">
-<area shape="rect" id="Node000001" title=" " alt="" coords="1607,129,1795,155"/>
-<area shape="rect" id="Node000002" href="$app_8c.html#a18f5559e832ccb17b9bf3e7406600ee7" title=" " alt="" coords="1411,104,1559,129"/>
+<area shape="rect" id="Node000001" title="APP_SetFrequencyByStep function." alt="" coords="1607,129,1795,155"/>
+<area shape="rect" id="Node000002" href="$app_8c.html#a18f5559e832ccb17b9bf3e7406600ee7" title="FREQ_NextChannel function that will be used to do this or that." alt="" coords="1411,104,1559,129"/>
 <area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1593,132,1558,128,1559,123,1593,127"/>
 <area shape="rect" id="Node000015" href="$app_2main_8c.html#ae40ff37e65f9e3dfc72223a584f1bdc7" title=" " alt="" coords="1029,155,1192,180"/>
 <area shape="poly" id="edge19_Node000001_Node000015" title=" " alt="" coords="1593,149,1192,167,1192,161,1593,144"/>

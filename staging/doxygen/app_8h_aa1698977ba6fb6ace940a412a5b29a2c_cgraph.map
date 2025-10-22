@@ -1,12 +1,12 @@
 <map id="CHANNEL_Next" name="CHANNEL_Next">
 <area shape="rect" id="Node000001" title=" " alt="" coords="5,307,128,332"/>
-<area shape="rect" id="Node000002" href="$app_8c.html#a18f5559e832ccb17b9bf3e7406600ee7" title=" " alt="" coords="176,307,324,332"/>
+<area shape="rect" id="Node000002" href="$app_8c.html#a18f5559e832ccb17b9bf3e7406600ee7" title="FREQ_NextChannel function that will be used to do this or that." alt="" coords="176,307,324,332"/>
 <area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="128,317,162,317,162,322,128,322"/>
 <area shape="rect" id="Node000102" href="$app_8c.html#a9c6e32df84dffc6fe6645eef1c9de0c4" title=" " alt="" coords="183,157,317,183"/>
 <area shape="poly" id="edge96_Node000001_Node000102" title=" " alt="" coords="82,305,221,190,224,194,85,309"/>
 <area shape="rect" id="Node000106" href="$radio_8c.html#aeba3dbfbb80cdad7a6379a740f64e55b" title=" " alt="" coords="180,632,320,657"/>
 <area shape="poly" id="edge109_Node000001_Node000106" title=" " alt="" coords="77,331,237,619,233,621,73,333"/>
-<area shape="rect" id="Node000003" href="$app_8c.html#afd86690a9def9eb65a4279943d81a071" title=" " alt="" coords="372,231,560,256"/>
+<area shape="rect" id="Node000003" href="$app_8c.html#afd86690a9def9eb65a4279943d81a071" title="APP_SetFrequencyByStep function." alt="" coords="372,231,560,256"/>
 <area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="285,304,371,273,414,258,415,263,373,278,287,309"/>
 <area shape="rect" id="Node000005" href="$radio_8c.html#a50e136c5b7d545bc5fc4a80f253053d3" title=" " alt="" coords="642,281,789,307"/>
 <area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="324,313,628,296,628,301,324,318"/>
