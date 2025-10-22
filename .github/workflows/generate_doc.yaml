@@ -34,7 +34,7 @@ jobs:
       #     echo "SITE_URL=https://<user>.github.io/<repo>${{ github.ref_name == 'main' && '' || '/staging' }}/" >> $GITHUB_ENV
 
       - name: Generate doc coverage page
-        run: python3 tools/doc_coverage.py --src src include --out mkdocs/docs/status.md
+        run: python3 doc_tools/doc_coverage.py --src src include --out mkdocs/docs/status.md
 
       - name: Build MkDocs site
         run: |
