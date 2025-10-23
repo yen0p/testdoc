@@ -382,7 +382,7 @@ void APP_StartListening(FUNCTION_Type_t Function)
  * @param Step direction: integer value. e.g., int8_t direction; e.g., gScanStateDir
  * @return Return value.
  * Hypotheses:
- * - Behavior inferred from naming and call sites; check side effects.
+ * - Behavior inferred from naming and call sites; check side effectss.
  * Degree of certainty : 57%
  */
 void APP_SetFrequencyByStep(VFO_Info_t *pInfo, int8_t Step)
